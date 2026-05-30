@@ -1,0 +1,412 @@
+[
+  {
+    "id": "https://openalex.org/W146162245",
+    "title": "Building Contextual Anchor Text Representation using Graph Regularization",
+    "publication_date": "2021-09-20",
+    "abstract": "Anchor texts are useful complementary description for target pages, widely applied to improve search relevance. The benefits come from the additional information introduced into document representation and the intelligent ways of estimating their relative importance. Previous work on anchor importance estimation treated anchor text independently without considering its context. As a result, the lack of constraints from such context fails to guarantee a stable anchor text representation. We propose an anchor graph regularization approach to incorporate constraints from such context into anchor text weighting process, casting the task into a convex quadratic optimization problem. The constraints draw from the estimation of anchor-anchor, anchor-page, and page-page similarity. Based on any estimators, our approach operates as a post process of refining the estimated anchor weights, making it a plug and play component in search infrastructure. Comparable experiments on standard data sets (TREC 2009 and 2010) demonstrate the efficacy of our approach.",
+    "source": {
+      "id": "https://openalex.org/S4210191458",
+      "display_name": "Proceedings of the AAAI Conference on Artificial Intelligence"
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5030163252",
+        "display_name": "Na Dai"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 45,
+    "referenced_works": [
+      "https://openalex.org/W11938577",
+      "https://openalex.org/W131411689",
+      "https://openalex.org/W176248467",
+      "https://openalex.org/W584634945",
+      "https://openalex.org/W1486351992",
+      "https://openalex.org/W1489893579",
+      "https://openalex.org/W1828972360",
+      "https://openalex.org/W1977081768",
+      "https://openalex.org/W1980730196",
+      "https://openalex.org/W1985554184",
+      "https://openalex.org/W1990589796",
+      "https://openalex.org/W2009371623",
+      "https://openalex.org/W2012057220",
+      "https://openalex.org/W2018478052",
+      "https://openalex.org/W2042281163",
+      "https://openalex.org/W2066636486",
+      "https://openalex.org/W2068598979",
+      "https://openalex.org/W2080514141",
+      "https://openalex.org/W2085030399",
+      "https://openalex.org/W2097973429",
+      "https://openalex.org/W2108877333",
+      "https://openalex.org/W2111713978",
+      "https://openalex.org/W2124658502",
+      "https://openalex.org/W2141719669",
+      "https://openalex.org/W2147057843",
+      "https://openalex.org/W2147872511",
+      "https://openalex.org/W2159859920",
+      "https://openalex.org/W2164052363",
+      "https://openalex.org/W2171161922",
+      "https://openalex.org/W2171710828",
+      "https://openalex.org/W2198183204",
+      "https://openalex.org/W2538492099",
+      "https://openalex.org/W4251560691",
+      "https://openalex.org/W6605300326",
+      "https://openalex.org/W6607240301",
+      "https://openalex.org/W6629045926",
+      "https://openalex.org/W6629400209",
+      "https://openalex.org/W6645307114",
+      "https://openalex.org/W6652700615",
+      "https://openalex.org/W6667543312",
+      "https://openalex.org/W6670402455",
+      "https://openalex.org/W6674744358",
+      "https://openalex.org/W6678686784",
+      "https://openalex.org/W6684977404",
+      "https://openalex.org/W7024505755"
+    ],
+    "related_works": [
+      "https://openalex.org/W2180954594",
+      "https://openalex.org/W2052835778",
+      "https://openalex.org/W2049003611",
+      "https://openalex.org/W2108418243",
+      "https://openalex.org/W2127804977",
+      "https://openalex.org/W164103134",
+      "https://openalex.org/W2787352659",
+      "https://openalex.org/W2040545019",
+      "https://openalex.org/W2017917301",
+      "https://openalex.org/W1973723221"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W151479515",
+    "title": "Information and Hardness Quantification of Graphs: A Computational Study",
+    "publication_date": "2021-10-07",
+    "abstract": "New techniques to measure the information contained within a network of interconnected nodes (such as links between computers in the Internet) have recently been developed. This work studies the relationship between the computer time needed to solve a common network problem and the information contained within the given network.",
+    "source": {
+      "id": "https://openalex.org/S4377196327",
+      "display_name": "Digital Commons - USU (Utah State University)"
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5061811705",
+        "display_name": "Brent Dutson"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T12292",
+      "display_name": "Graph Theory and Algorithms",
+      "score": 0.9936000108718872,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 22,
+    "referenced_works": [
+      "https://openalex.org/W1501406409",
+      "https://openalex.org/W1523403388",
+      "https://openalex.org/W1527197079",
+      "https://openalex.org/W1570115352",
+      "https://openalex.org/W1577841048",
+      "https://openalex.org/W1584379138",
+      "https://openalex.org/W1592356192",
+      "https://openalex.org/W1638203394",
+      "https://openalex.org/W1978199991",
+      "https://openalex.org/W1984862819",
+      "https://openalex.org/W1995875735",
+      "https://openalex.org/W2006252547",
+      "https://openalex.org/W2011039300",
+      "https://openalex.org/W2033435429",
+      "https://openalex.org/W2112090702",
+      "https://openalex.org/W2114937915",
+      "https://openalex.org/W2116887046",
+      "https://openalex.org/W2143962926",
+      "https://openalex.org/W2146297090",
+      "https://openalex.org/W2164078761",
+      "https://openalex.org/W2264100452",
+      "https://openalex.org/W2765801977"
+    ],
+    "related_works": [
+      "https://openalex.org/W2481764311",
+      "https://openalex.org/W3197213598",
+      "https://openalex.org/W2183879936",
+      "https://openalex.org/W2727332881",
+      "https://openalex.org/W1529948880"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W152968423",
+    "title": "Modeling Item and Category Learning",
+    "publication_date": "2022-05-10",
+    "abstract": "SUSTAIN (Supervised and Unsupervised STratified Adaptive Incremental Network) is a network model of human category learning. SUSTAIN is a three layer model where learning between the first two layers is unsupervised, while learning between the top two layers is supervised. SUSTAIN clusters inputs in an unsupervised fashion until it groups input patterns inappropriately (as signaled by the supervised portion of the network). When such an error occurs, SUSTAIN alters its architecture, recruiting a new unit that is tuned to correctly classify the exception. Units recruited to capture exceptions can evolve into prototypes/attractors/rules in their own right. SUSTAIN's adaptive architecture allows it to master simple classification problems quickly, while still retaining the capacity to learn difficult mappings. SUSTAIN also adjusts its sensitivity to input dimensions during the course of learning, paying more attention to dimensions relevant to the classification task. SUSTAIN successfully fits item and category learning data from Medin, Dewey, and Murphy (1983). SUSTAIN's performance on other data sets is discussed. SUSTAIN is compared with other models of category learning.",
+    "source": {
+      "id": null,
+      "display_name": null
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5069362336",
+        "display_name": "Bradley C. Love"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T11273",
+      "display_name": "Advanced Graph Neural Networks",
+      "score": 0.9763000011444092,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 27,
+    "referenced_works": [
+      "https://openalex.org/W1498436455",
+      "https://openalex.org/W1623080549",
+      "https://openalex.org/W1975416385",
+      "https://openalex.org/W1988276046",
+      "https://openalex.org/W1990863955",
+      "https://openalex.org/W1991848143",
+      "https://openalex.org/W1997014880",
+      "https://openalex.org/W2018124860",
+      "https://openalex.org/W2020130890",
+      "https://openalex.org/W2026584904",
+      "https://openalex.org/W2038842628",
+      "https://openalex.org/W2040870580",
+      "https://openalex.org/W2042481239",
+      "https://openalex.org/W2059799772",
+      "https://openalex.org/W2072067353",
+      "https://openalex.org/W2076118331",
+      "https://openalex.org/W2078492619",
+      "https://openalex.org/W2086472796",
+      "https://openalex.org/W2097533491",
+      "https://openalex.org/W2109779438",
+      "https://openalex.org/W2134088379",
+      "https://openalex.org/W2134145060",
+      "https://openalex.org/W2135065299",
+      "https://openalex.org/W2144219012",
+      "https://openalex.org/W2168915016",
+      "https://openalex.org/W3017143921",
+      "https://openalex.org/W3167379691"
+    ],
+    "related_works": [
+      "https://openalex.org/W2899084033",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2390279801",
+      "https://openalex.org/W2358668433",
+      "https://openalex.org/W2376932109",
+      "https://openalex.org/W2382290278",
+      "https://openalex.org/W2096946506",
+      "https://openalex.org/W2350741829",
+      "https://openalex.org/W3004735627",
+      "https://openalex.org/W3107474891"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W1559972751",
+    "title": "Partition-Merge: Distributed Inference and Modularity Optimization",
+    "publication_date": "2021-01-01",
+    "abstract": "This paper presents a novel meta-algorithm, Partition-Merge (PM), which takes existing centralized algorithms for graph computation and makes them distributed and faster. In a nutshell, PM divides the graph into small subgraphs using our novel randomized partitioning scheme, runs the centralized algorithm on each partition separately, and then stitches the resulting solutions to produce a global solution. We demonstrate the efficiency of the PM algorithm on two popular problems: computation of Maximum A Posteriori (MAP) assignment in an arbitrary pairwise Markov Random Field (MRF) and modularity optimization for community detection. We show that the resulting distributed algorithms for these problems become fast, which run in time linear in the number of nodes in the graph. Furthermore, PM leads to performance comparable - or even better - to that of the centralized algorithms as long as the graph has polynomial growth property. More precisely, if the centralized algorithm is a <i xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">C</i> -factor approximation with constant <i xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">C</i> ≥ 1, the resulting distributed algorithm is a ( <i xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">C</i> +δ)-factor approximation for any small δ > 0; and even if the centralized algorithm is a non-constant (e.g., logarithmic) factor approximation, then the resulting distributed algorithm becomes a constant factor approximation. For general graphs, we compute explicit bounds on the loss of performance of the resulting distributed algorithm with respect to the centralized algorithm. To show the efficiency of our algorithm, we conducted extensive experiments both on real-world networks and on synthetic networks. The experiments demonstrate that the PM algorithm provides a good trade-off between accuracy and running time.",
+    "source": {
+      "id": "https://openalex.org/S2485537415",
+      "display_name": "IEEE Access"
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5073875709",
+        "display_name": "Vincent D. Blondel"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T10064",
+      "display_name": "Complex Network Analysis Techniques",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3109",
+        "display_name": "Statistical and Nonlinear Physics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/31",
+        "display_name": "Physics and Astronomy"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 43,
+    "referenced_works": [
+      "https://openalex.org/W199203743",
+      "https://openalex.org/W1528845765",
+      "https://openalex.org/W1659247065",
+      "https://openalex.org/W1971421925",
+      "https://openalex.org/W1971630691",
+      "https://openalex.org/W1996066664",
+      "https://openalex.org/W2037139490",
+      "https://openalex.org/W2042899161",
+      "https://openalex.org/W2047940964",
+      "https://openalex.org/W2089770904",
+      "https://openalex.org/W2098678088",
+      "https://openalex.org/W2108553206",
+      "https://openalex.org/W2108619558",
+      "https://openalex.org/W2111925081",
+      "https://openalex.org/W2122603314",
+      "https://openalex.org/W2127248062",
+      "https://openalex.org/W2131681506",
+      "https://openalex.org/W2135512436",
+      "https://openalex.org/W2137172591",
+      "https://openalex.org/W2151936673",
+      "https://openalex.org/W2153822379",
+      "https://openalex.org/W2158863086",
+      "https://openalex.org/W2159080219",
+      "https://openalex.org/W2160561951",
+      "https://openalex.org/W2164918853",
+      "https://openalex.org/W2170987079",
+      "https://openalex.org/W2172205482",
+      "https://openalex.org/W2183751109",
+      "https://openalex.org/W2318485605",
+      "https://openalex.org/W2529378427",
+      "https://openalex.org/W3023464740",
+      "https://openalex.org/W3028820942",
+      "https://openalex.org/W3103301362",
+      "https://openalex.org/W4205300528",
+      "https://openalex.org/W4251624562",
+      "https://openalex.org/W6631513056",
+      "https://openalex.org/W6674866097",
+      "https://openalex.org/W6676089952",
+      "https://openalex.org/W6683336977",
+      "https://openalex.org/W6683341419",
+      "https://openalex.org/W6685643784",
+      "https://openalex.org/W6686313087",
+      "https://openalex.org/W6785338372"
+    ],
+    "related_works": [
+      "https://openalex.org/W2135512436",
+      "https://openalex.org/W3101676988",
+      "https://openalex.org/W2029217875",
+      "https://openalex.org/W2399614914",
+      "https://openalex.org/W2952281069",
+      "https://openalex.org/W3184913911",
+      "https://openalex.org/W2887341375",
+      "https://openalex.org/W3088025102",
+      "https://openalex.org/W2112551191",
+      "https://openalex.org/W3016980318",
+      "https://openalex.org/W2950274216",
+      "https://openalex.org/W1513315626",
+      "https://openalex.org/W2885807076",
+      "https://openalex.org/W2745138925",
+      "https://openalex.org/W67332047",
+      "https://openalex.org/W1538322112",
+      "https://openalex.org/W2473718805",
+      "https://openalex.org/W2964220642",
+      "https://openalex.org/W2536112642",
+      "https://openalex.org/W2963834517"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W1603867886",
+    "title": "Discovering Cyclic Causal Structure",
+    "publication_date": "2018-06-29",
+    "abstract": "Abstract: \"This paper is concerned with the problem of making causal inferences from observational data, when the underlying causal structure may involve feedback loops. In particular, making causal inferences under the assumption that the causal system which generated the data is linear and that there are no unmeasured common causes (latent variables). Linear causal structures of this type can be represented by non-recursive linear structural equation models. I present a correct polynomial time (on sparse graphs) discovery algorithm for linear cyclic models that contain no latent variables. This algorithm outputs a representation of a class of non-recursive linear structural equation models, given observational data as input. Under the assumption that all conditional independencies found in the observational data are true for structural reasons rather than because of particular parameter values, the algorithm discovers causal features of the structure which generated the data. A simple modification of the algorithm can be used as a decision procedure (whose runtime is polynomial in the number of vertices) for determining when two directed graphs (cyclic or acyclic) entail the same set of conditional independence relations. After proving that the algorithm is correct I then show that it is also complete in the sense that if two linear structural equation models are used as conditional independence 'oracles' for the discovery algorithm, then the algorithm will give the same output only if every conditional independence entailed by one model is entailed by the other and vice versa. Another way of saying this is that the algorithm can be used as a decision procedure for determining Markov equivalence of directed cyclic graphs; if the conditional independencies associated with two cyclic graphs result in the same output from the algorithm, when used as input, then the two graphs are equivalent.\"",
+    "source": {
+      "id": "https://openalex.org/S4306400668",
+      "display_name": "Research Showcase @ Carnegie Mellon University (Carnegie Mellon University)"
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5018738292",
+        "display_name": "Thomas Richardson"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T11303",
+      "display_name": "Bayesian Modeling and Causal Inference",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 13,
+    "referenced_works": [
+      "https://openalex.org/W30853191",
+      "https://openalex.org/W70772343",
+      "https://openalex.org/W113525123",
+      "https://openalex.org/W186505311",
+      "https://openalex.org/W1524326598",
+      "https://openalex.org/W1592143269",
+      "https://openalex.org/W1655990431",
+      "https://openalex.org/W1964332463",
+      "https://openalex.org/W1974134238",
+      "https://openalex.org/W1981502496",
+      "https://openalex.org/W2013567125",
+      "https://openalex.org/W2059334100",
+      "https://openalex.org/W2313470939"
+    ],
+    "related_works": [
+      "https://openalex.org/W1524326598",
+      "https://openalex.org/W2800939374",
+      "https://openalex.org/W2950438825",
+      "https://openalex.org/W2963240909",
+      "https://openalex.org/W2135217397",
+      "https://openalex.org/W73166197",
+      "https://openalex.org/W2809570031",
+      "https://openalex.org/W2225217344",
+      "https://openalex.org/W2102203612",
+      "https://openalex.org/W1495157997",
+      "https://openalex.org/W2399020367",
+      "https://openalex.org/W3018398791",
+      "https://openalex.org/W2117390402",
+      "https://openalex.org/W2320072121",
+      "https://openalex.org/W2977290899",
+      "https://openalex.org/W2076209848",
+      "https://openalex.org/W2790376986",
+      "https://openalex.org/W3083707745",
+      "https://openalex.org/W2952407203",
+      "https://openalex.org/W2811253460"
+    ]
+  }
+]
