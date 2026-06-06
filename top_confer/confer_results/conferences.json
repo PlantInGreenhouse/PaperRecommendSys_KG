@@ -1,0 +1,5475 @@
+{
+  "metadata": {
+    "source": "https://mlciv.com/ai-deadlines/conferences.json",
+    "crawled_at": "2026-06-06T14:13:52+09:00",
+    "total_entries": 218,
+    "unique_conferences": 75,
+    "year_range": [
+      2024,
+      2027
+    ],
+    "note": "publisher(기관/출판사) 필드는 원본 데이터에 없어 컨퍼런스 약칭 기준 큐레이션 매핑으로 채운 값입니다. 매핑에 없으면 null."
+  },
+  "conferences": [
+    {
+      "conference": "3DV",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "April 6-9, 2027",
+        "start": "2027-04-06",
+        "end": "2027-04-09"
+      },
+      "location": "Thessaloniki, Greece",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2026-08-28 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://3dvconf.github.io/2027/",
+      "note": "Supplementary material due September 2, 2026. More info <a href='https://3dvconf.github.io/2027/'>here</a>."
+    },
+    {
+      "conference": "AAAI",
+      "full_name": "AAAI Conference on Artificial Intelligence",
+      "year": 2027,
+      "publisher": "AAAI",
+      "conference_dates": {
+        "text": "February 16-23, 2027",
+        "start": "2027-02-16",
+        "end": "2027-02-23"
+      },
+      "location": "Montréal, Canada",
+      "subjects": [
+        "Data Mining",
+        "Knowledge Representation & Reasoning",
+        "Machine Learning",
+        "Robotics",
+        "Natural Language Processing",
+        "Signal Processing",
+        "Computer Vision",
+        "Computer Graphics",
+        "Human-Computer Interaction",
+        "Applications"
+      ],
+      "subject_codes": [
+        "DM",
+        "KR",
+        "ML",
+        "RO",
+        "NLP",
+        "SP",
+        "CV",
+        "CG",
+        "HCI",
+        "AP"
+      ],
+      "paper_deadline": "2026-07-28 23:59:59",
+      "abstract_deadline": "2026-07-21 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 212,
+      "website": "https://aaai.org/conference/aaai/aaai-27/",
+      "note": "Supplementary material and code due July 31, 2026. Final notification Nov 30, 2026. All deadlines AoE (UTC-12). More info <a href='https://aaai.org/conference/aaai/aaai-27/'>here</a>."
+    },
+    {
+      "conference": "ACL",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 2027",
+        "start": "2027-07-01",
+        "end": "2027-07-31"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2027-01-05 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 192,
+      "website": "https://2027.aclweb.org/",
+      "note": "Predicted deadline based on historical ACL pattern (past deadlines — 2026 Jan 5, 2025 Feb 15, 2024 Feb 15). Please verify on the official conference website. More info <a href='https://2027.aclweb.org/'>here</a>."
+    },
+    {
+      "conference": "AIED",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "Springer / IAIED",
+      "conference_dates": {
+        "text": "June 29 - July 24, 2027",
+        "start": "2027-06-29",
+        "end": "2027-07-03"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2027-02-02 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://aied-conference.org/2027/call-for-paper",
+      "note": "Predicted deadline based on historical AIED pattern (past deadlines — 2026 Feb 2, 2025 Feb 19, 2024 Feb 5). Please verify on the official conference website. More info <a href='https://aied-conference.org/2027/call-for-paper'>here</a>."
+    },
+    {
+      "conference": "AISTATS",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "May 2-5, 2027",
+        "start": "2027-05-02",
+        "end": "2027-05-05"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-10-02 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 100,
+      "website": "https://virtual.aistats.org/Conferences/2027/CallForPapers",
+      "note": "Predicted deadline based on historical AISTATS pattern (past deadlines — 2025 Oct 2, 2024 Oct 10, 2023 Oct 16). Please verify on the official conference website. More info <a href='https://virtual.aistats.org/Conferences/2027/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "BEA",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 31, 2027",
+        "start": "2027-07-31",
+        "end": "2027-08-01"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2027-04-17 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://sig-edu.org/bea/2027",
+      "note": "Predicted deadline based on historical BEA pattern (past deadlines — 2025 Apr 17, 2025 Apr 17). Please verify on the official conference website. More info <a href='https://sig-edu.org/bea/2027'>here</a>."
+    },
+    {
+      "conference": "BMVC",
+      "full_name": "The British Machine Vision Conference",
+      "year": 2027,
+      "publisher": "BMVA",
+      "conference_dates": {
+        "text": "November 23-26, 2027",
+        "start": "2027-11-23",
+        "end": "2027-11-26"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2027-05-20 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://bmvc2027.bmva.org/calls/call-for-papers/",
+      "note": "Predicted deadline based on historical BMVC pattern (past deadlines — 2026 May 29, 2024 May 10, 2023 May 12). Please verify on the official conference website. More info <a href='https://bmvc2027.bmva.org/calls/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "CHI",
+      "full_name": "The ACM Conference on Human Factors in Computing Systems",
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "May 10-14, 2027",
+        "start": "2027-05-10",
+        "end": "2027-05-14"
+      },
+      "location": "Pittsburgh, Pennsylvania, USA",
+      "subjects": [
+        "Human-Computer Interaction"
+      ],
+      "subject_codes": [
+        "HCI"
+      ],
+      "paper_deadline": "2026-09-10 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 122,
+      "website": "https://chi2027.acm.org/authors/papers/",
+      "note": "CHI 2027 papers (AoE): no abstract deadline. Submission site opens July 30, 2026; full paper deadline September 10, 2026 (includes videos and supplementary materials). Revise-and-resubmit phase with resubmission December 3, 2026; final notification December 17, 2026. More info <a href='https://chi2027.acm.org/authors/papers/#submission-details'>here</a>."
+    },
+    {
+      "conference": "CIKM",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "November 2027",
+        "start": "2027-11-01",
+        "end": "2027-11-30"
+      },
+      "location": "Sydney, Australia",
+      "subjects": [
+        "Data Mining",
+        "Knowledge Representation & Reasoning"
+      ],
+      "subject_codes": [
+        "DM",
+        "KR"
+      ],
+      "paper_deadline": "2027-05-23 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "http://www.cikmconference.org/",
+      "note": "Predicted deadline based on historical CIKM pattern (past deadlines — 2026 May 23, 2025 May 23, 2024 May 20). Please verify on the official conference website. More info <a href='http://www.cikmconference.org/'>here</a>."
+    },
+    {
+      "conference": "COLING",
+      "full_name": "The 32nd International Conference on Computational Linguistics",
+      "year": 2027,
+      "publisher": "ICCL / ACL",
+      "conference_dates": {
+        "text": "May 9-14, 2027",
+        "start": "2027-05-09",
+        "end": "2027-05-14"
+      },
+      "location": "Macau, China",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-12-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 73,
+      "website": "https://2027.coling-iccl.org/",
+      "note": "Predicted deadline based on historical COLING biennial pattern (past deadlines — 2025 Sep 16, 2022 May 17). Host Macau and dates May 9-14 confirmed; submission deadline not yet announced (TBD). Please verify on the official conference website. More info <a href='https://2027.coling-iccl.org/'>here</a>."
+    },
+    {
+      "conference": "COLM",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "COLM",
+      "conference_dates": {
+        "text": "Oct 06-09, 2027",
+        "start": "2027-10-06",
+        "end": "2027-10-09"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML"
+      ],
+      "paper_deadline": "2027-03-31 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://colmweb.org/",
+      "note": "Predicted deadline based on historical COLM pattern (past deadlines — 2026 Mar 31, 2025 Mar 27, 2024 Mar 29). Please verify on the official conference website. More info <a href='https://colmweb.org/'>here</a>."
+    },
+    {
+      "conference": "CVAI",
+      "full_name": "International Symposium on Computer Vision and Artificial Intelligence",
+      "year": 2027,
+      "publisher": null,
+      "conference_dates": {
+        "text": "March 27-29, 2027",
+        "start": "2027-03-27",
+        "end": "2027-03-29"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Computer Vision",
+        "Machine Learning",
+        "Robotics"
+      ],
+      "subject_codes": [
+        "CV",
+        "ML",
+        "RO"
+      ],
+      "paper_deadline": "2027-02-05 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "Asia/Shanghai",
+      "h_index": null,
+      "website": "https://www.cvai2027.org/index.html",
+      "note": "Predicted deadline based on historical CVAI pattern (past deadlines — 2026 Feb 5). Please verify on the official conference website. More info <a href='https://www.cvai2027.org/index.html'>here</a>."
+    },
+    {
+      "conference": "CVC",
+      "full_name": "Computer Vision Conference",
+      "year": 2027,
+      "publisher": null,
+      "conference_dates": {
+        "text": "May 21-22, 2027",
+        "start": "2027-05-21",
+        "end": "2027-05-22"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2027-01-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://saiconference.com/CVC/CallforPapers",
+      "note": "Predicted deadline based on historical CVC pattern (past deadlines — 2026 Jan 15). Please verify on the official conference website. More info <a href='https://saiconference.com/CVC/CallforPapers'>here</a>."
+    },
+    {
+      "conference": "CVPR",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "June 17-21, 2027",
+        "start": "2027-06-17",
+        "end": "2027-06-21"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2026-11-13 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://cvpr.thecvf.com/Conferences/2027/CallForPapers",
+      "note": "Predicted deadline based on historical CVPR pattern (past deadlines — 2025 Nov 13, 2024 Nov 15, 2023 Nov 17). Please verify on the official conference website. More info <a href='https://cvpr.thecvf.com/Conferences/2027/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "CoNLL",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACL / SIGNLL",
+      "conference_dates": {
+        "text": "July 3-4, 2027",
+        "start": "2027-07-03",
+        "end": "2027-07-04"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2027-02-19 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 44,
+      "website": "https://conll.org/",
+      "note": "Predicted deadline based on historical CoNLL pattern (past deadlines — 2026 Feb 19, 2023 Jun 30, 2020 Jul 17). Please verify on the official conference website. More info <a href='https://conll.org/'>here</a>."
+    },
+    {
+      "conference": "EACL",
+      "full_name": "The 20th Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2027,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "March 9-14, 2027",
+        "start": "2027-03-09",
+        "end": "2027-03-14"
+      },
+      "location": "Athens, Greece",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-08-03 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2027.eacl.org/calls/papers/",
+      "note": "ARR submission deadline for long and short papers. All deadlines AoE. More info <a href='https://2027.eacl.org/calls/papers/'>here</a>."
+    },
+    {
+      "conference": "ECIR",
+      "full_name": "European Conference on Information Retrieval",
+      "year": 2027,
+      "publisher": "Springer",
+      "conference_dates": {
+        "text": "March 21-25, 2027",
+        "start": "2027-03-21",
+        "end": "2027-03-25"
+      },
+      "location": "Southampton, UK",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-10-02 23:59:59",
+      "abstract_deadline": "2026-09-25 23:59:59",
+      "timezone": "UTC+0",
+      "h_index": null,
+      "website": "https://www.ecir2027.co.uk/call-for-full-papers",
+      "note": "Full paper abstract and paper deadlines are 11:59 pm GMT. More info <a href='https://www.ecir2027.co.uk/call-for-full-papers'>here</a>."
+    },
+    {
+      "conference": "ECML PKDD",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "Springer",
+      "conference_dates": {
+        "text": "September 9-13, 2027",
+        "start": "2027-09-09",
+        "end": "2027-09-13"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2027-07-22 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 45,
+      "website": "https://2027.ecmlpkdd.org/",
+      "note": "Predicted deadline based on historical ECML PKDD pattern (past deadlines — 2025 Jul 22, 2024 Jul 22). Please verify on the official conference website. More info <a href='https://2027.ecmlpkdd.org/'>here</a>."
+    },
+    {
+      "conference": "EDM",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "IEDMS",
+      "conference_dates": {
+        "text": "June 29 - July 03, 2027",
+        "start": "2027-06-29",
+        "end": "2027-07-03"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2027-02-09 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://educationaldatamining.org/edm2027/call-for-papers/",
+      "note": "Predicted deadline based on historical EDM pattern (past deadlines — 2026 Feb 9, 2025 Feb 20, 2024 Feb 19). Please verify on the official conference website. More info <a href='https://educationaldatamining.org/edm2027/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "EMNLP",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "October 24-29, 2027",
+        "start": "2027-10-24",
+        "end": "2027-10-29"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2027-05-25 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2027.emnlp.org/",
+      "note": "Predicted deadline based on historical EMNLP pattern (past deadlines — 2026 May 25, 2025 May 19, 2024 Jun 15). Please verify on the official conference website. More info <a href='https://2027.emnlp.org/'>here</a>."
+    },
+    {
+      "conference": "ICAAAIML",
+      "full_name": "International Conference on Advances and Applications of Artificial Intelligence and Machine Learning",
+      "year": 2027,
+      "publisher": null,
+      "conference_dates": {
+        "text": "TBD",
+        "start": null,
+        "end": null
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "TBA",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.icaaaiml.com/call.html",
+      "note": "Submission deadlines not yet announced. More info <a href='https://www.icaaaiml.com/call.html'>here</a>."
+    },
+    {
+      "conference": "ICASSP",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "May 16-21, 2027",
+        "start": "2027-05-16",
+        "end": "2027-05-21"
+      },
+      "location": "Toronto, Canada",
+      "subjects": [
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "SP"
+      ],
+      "paper_deadline": "2026-09-16 22:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-8",
+      "h_index": null,
+      "website": "https://2027.ieeeicassp.org/call-for-papers/",
+      "note": "Full paper submission deadline September 16, 2026. Acceptance notification Jan 13, 2027; final paper Jan 27, 2027. Published journal papers due Jan 6, 2027. More info <a href='https://2027.ieeeicassp.org/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "ICCV",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "October 2027",
+        "start": "2027-10-02",
+        "end": "2027-10-08"
+      },
+      "location": "Hong Kong",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2027-03-07 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://iccv.thecvf.com/",
+      "note": "Predicted deadline based on historical ICCV biennial pattern (past deadlines — 2025 Mar 7, 2023 Mar 8). Host city Hong Kong confirmed by CVF; dates and deadline not yet announced. Please verify on the official conference website. More info <a href='https://www.thecvf.com/?page_id=100'>here</a>."
+    },
+    {
+      "conference": "ICDE-1",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "May 17-21, 2027",
+        "start": "2027-05-17",
+        "end": "2027-05-21"
+      },
+      "location": "Copenhagen, Denmark",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-06-11 17:00:00",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://icde2027.github.io/important-dates.html",
+      "note": "Research track round 1. More info <a href='https://icde2027.github.io/important-dates.html'>here</a>."
+    },
+    {
+      "conference": "ICDE-2",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "May 17-21, 2027",
+        "start": "2027-05-17",
+        "end": "2027-05-21"
+      },
+      "location": "Copenhagen, Denmark",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-11-11 17:00:00",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://icde2027.github.io/important-dates.html",
+      "note": "Research track round 2. All deadlines 5:00 p.m. Pacific Time. More info <a href='https://icde2027.github.io/important-dates.html'>here</a>."
+    },
+    {
+      "conference": "ICDM",
+      "full_name": "IEEE International Conference on Data Mining",
+      "year": 2027,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "November 12-15, 2027",
+        "start": "2027-11-12",
+        "end": "2027-11-15"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2027-06-06 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "http://icdm2027.neu.edu.cn/",
+      "note": "Predicted deadline based on historical ICDM pattern (past deadlines — 2026 Jun 6, 2025 Jun 6, 2024 Jun 14). Please verify on the official conference website. More info <a href='http://icdm2027.neu.edu.cn/'>here</a>."
+    },
+    {
+      "conference": "ICLR",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ICLR (OpenReview)",
+      "conference_dates": {
+        "text": "Apr 24-28, 2027",
+        "start": "2027-04-24",
+        "end": "2027-04-28"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning",
+        "Applications",
+        "Robotics",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "ML",
+        "AP",
+        "RO",
+        "CV",
+        "NLP",
+        "SP"
+      ],
+      "paper_deadline": "2026-09-24 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 304,
+      "website": "https://iclr.cc/Conferences/2027/CallForPapers",
+      "note": "Predicted deadline based on historical ICLR pattern (past deadlines — 2025 Sep 24, 2024 Oct 1, 2023 Sep 28). Please verify on the official conference website. More info <a href='https://iclr.cc/Conferences/2027/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "ICML",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "July 2027",
+        "start": "2027-07-01",
+        "end": "2027-07-31"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2027-01-28 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "America/Los_Angeles",
+      "h_index": 204,
+      "website": "https://icml.cc/Conferences/2027",
+      "note": "Predicted deadline based on historical ICML pattern (past deadlines — 2026 Jan 28, 2024 Feb 1, 2023 Jan 26). Please verify on the official conference website. More info <a href='https://icml.cc/Conferences/2027'>here</a>."
+    },
+    {
+      "conference": "ICMLCN",
+      "full_name": "IEEE International Conference on Machine Learning for Communication and Networking",
+      "year": 2027,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "March 30 - April 2, 2027",
+        "start": "2027-03-30",
+        "end": "2027-04-02"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-11-13 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://icmlcn2027.ieee-icmlcn.org/call-papers",
+      "note": "Predicted deadline based on historical ICMLCN pattern (past deadlines — 2025 Nov 13). Please verify on the official conference website. More info <a href='https://icmlcn2027.ieee-icmlcn.org/call-papers'>here</a>."
+    },
+    {
+      "conference": "ICRA",
+      "full_name": "IEEE International Conference on Robotics and Automation",
+      "year": 2027,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "June 1-5, 2027",
+        "start": "2027-06-01",
+        "end": "2027-06-05"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2026-09-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": 119,
+      "website": "https://2027.ieee-icra.org/contribute/",
+      "note": "Predicted deadline based on historical ICRA pattern (past deadlines — 2025 Sep 15, 2024 Sep 15, 2023 Sep 15). Please verify on the official conference website. More info <a href='https://2027.ieee-icra.org/contribute/'>here</a>."
+    },
+    {
+      "conference": "IJCAI",
+      "full_name": "International Joint Conference on Artificial Intelligence",
+      "year": 2027,
+      "publisher": "IJCAI",
+      "conference_dates": {
+        "text": "August 2027",
+        "start": "2027-08-01",
+        "end": "2027-08-31"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2027-01-19 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 133,
+      "website": "https://2027.ijcai.org/",
+      "note": "Predicted deadline based on historical IJCAI pattern (past deadlines — 2025 Jan 23, 2024 Jan 17, 2023 Jan 18). Please verify on the official conference website. More info <a href='https://2027.ijcai.org/'>here</a>."
+    },
+    {
+      "conference": "INLG",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACL / SIGGEN",
+      "conference_dates": {
+        "text": "TBA, 2027",
+        "start": "2027-09-01",
+        "end": "2027-09-05"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2027-07-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.siggen.org/INLG-conferences.html",
+      "note": "Predicted deadline based on historical INLG pattern (past deadlines — 2026 Jul 15, 2025 Jul 18, 2024 May 31). Please verify on the official conference website. More info <a href='https://www.siggen.org/INLG-conferences.html'>here</a>."
+    },
+    {
+      "conference": "IROS",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "IEEE / RSJ",
+      "conference_dates": {
+        "text": "October 14-18, 2027",
+        "start": "2027-10-14",
+        "end": "2027-10-18"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2027-03-01 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": 80,
+      "website": "https://iros2027-abudhabi.org/",
+      "note": "Predicted deadline based on historical IROS pattern (past deadlines — 2025 Mar 1, 2024 Mar 1, 2023 Mar 1). Please verify on the official conference website. More info <a href='https://iros2027-abudhabi.org/'>here</a>."
+    },
+    {
+      "conference": "IWSDS",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "February 26 - March 1, 2027",
+        "start": "2027-02-26",
+        "end": "2027-03-01"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-10-28 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://sites.google.com/unitn.it/iwsds27/home/",
+      "note": "Predicted deadline based on historical IWSDS pattern (past deadlines — 2025 Oct 28, 2025 Jan 11, 2023 Nov 17). Please verify on the official conference website. More info <a href='https://sites.google.com/unitn.it/iwsds27/home/'>here</a>."
+    },
+    {
+      "conference": "InterSpeech",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ISCA",
+      "conference_dates": {
+        "text": "August 29 - September 2, 2027",
+        "start": "2027-08-29",
+        "end": "2027-09-02"
+      },
+      "location": "São Paulo, Brazil",
+      "subjects": [
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "SP"
+      ],
+      "paper_deadline": "2027-03-02 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://interspeech2027.org/",
+      "note": "Predicted deadline based on historical InterSpeech pattern (past deadlines — 2026 Mar 2, 2025 Feb 19, 2024 Mar 1). Please verify on the official conference website. More info <a href='https://interspeech2027.org/'>here</a>."
+    },
+    {
+      "conference": "KDD-2",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "August 25-29, 2027",
+        "start": "2027-08-03",
+        "end": "2027-08-07"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2027-02-10 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://kdd2027.kdd.org/",
+      "note": "Predicted deadline based on historical KDD-2 pattern (past deadlines — 2026 Feb 10, 2025 Feb 10). Please verify on the official conference website. More info <a href='https://kdd2027.kdd.org/'>here</a>."
+    },
+    {
+      "conference": "Learing at Scale",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "June 29-July 03, 2027",
+        "start": "2027-06-29",
+        "end": "2027-07-03"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2027-02-16 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://learningatscale.hosting.acm.org/las2027/call-for-papers/",
+      "note": "Predicted deadline based on historical Learing at Scale pattern (past deadlines — 2026 Feb 16, 2025 Feb 20). Please verify on the official conference website. More info <a href='https://learningatscale.hosting.acm.org/las2027/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "LoG",
+      "full_name": "Learning on Graphs Conference",
+      "year": 2027,
+      "publisher": "LoG (OpenReview)",
+      "conference_dates": {
+        "text": "November 26 - November 29, 2027",
+        "start": "2027-11-26",
+        "end": "2027-11-29"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning",
+        "Data Mining",
+        "Knowledge Representation & Reasoning"
+      ],
+      "subject_codes": [
+        "ML",
+        "DM",
+        "KR"
+      ],
+      "paper_deadline": "2027-09-11 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://logconference.org",
+      "note": "Predicted deadline based on historical LoG pattern (past deadlines — 2025 Sep 11, 2024 Sep 11, 2022 Sep 16). Please verify on the official conference website. More info <a href='https://logconference.org'>here</a>."
+    },
+    {
+      "conference": "MLSYS",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "MLSys Foundation",
+      "conference_dates": {
+        "text": "May 17-22, 2027",
+        "start": "2027-05-17",
+        "end": "2027-05-23"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-10-30 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://mlsys.org/Conferences/2027/",
+      "note": "Predicted deadline based on historical MLSYS pattern (past deadlines — 2025 Oct 30). Please verify on the official conference website. More info <a href='https://mlsys.org/Conferences/2027/'>here</a>."
+    },
+    {
+      "conference": "MM",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "October 28 - November 1, 2027",
+        "start": "2027-10-28",
+        "end": "2027-11-01"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2027-04-08 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2027.acmmm.org/",
+      "note": "Predicted deadline based on historical MM pattern (past deadlines — 2025 Apr 8, 2024 Apr 8, 2023 Apr 30). Please verify on the official conference website. More info <a href='https://2027.acmmm.org/'>here</a>."
+    },
+    {
+      "conference": "NeurIPS",
+      "full_name": "Conference on Neural Information Processing Systems",
+      "year": 2027,
+      "publisher": "NeurIPS Foundation",
+      "conference_dates": {
+        "text": "December 2027",
+        "start": "2027-12-01",
+        "end": "2027-12-31"
+      },
+      "location": "Europe",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2027-05-06 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC",
+      "h_index": 309,
+      "website": "https://neurips.cc/Conferences/FutureMeetings",
+      "note": "Predicted deadline based on historical NeurIPS pattern (past deadlines — 2026 May 6, 2025 May 16, 2024 May 22). Please verify on the official conference website. More info <a href='https://neurips.cc/Conferences/FutureMeetings'>here</a>."
+    },
+    {
+      "conference": "RSS",
+      "full_name": "Robotics: Science and Systems",
+      "year": 2027,
+      "publisher": "RSS Foundation",
+      "conference_dates": {
+        "text": "July 13-17, 2027",
+        "start": "2027-07-13",
+        "end": "2027-07-17"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2027-01-30 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 61,
+      "website": "https://roboticsconference.org/information/cfp/",
+      "note": "Predicted deadline based on historical RSS pattern (past deadlines — 2026 Jan 30, 2025 Jan 24, 2024 Feb 2). Please verify on the official conference website. More info <a href='https://roboticsconference.org/information/cfp/'>here</a>."
+    },
+    {
+      "conference": "RecSys",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "September 28 - October 2, 2027",
+        "start": "2027-09-28",
+        "end": "2027-10-02"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2027-04-21 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/",
+      "note": "Predicted deadline based on historical RecSys pattern (past deadlines — 2026 Apr 21, 2023 Apr 21, 2022 May 3). Please verify on the official conference website. More info <a href='https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/'>here</a>."
+    },
+    {
+      "conference": "SIGDIAL",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACL / ISCA",
+      "conference_dates": {
+        "text": "Aug 01-05, 2027",
+        "start": "2027-08-01",
+        "end": "2027-08-05"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2027-04-20 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2027.sigdial.org/",
+      "note": "Predicted deadline based on historical SIGDIAL pattern (past deadlines — 2026 Apr 20, 2025 Apr 28, 2024 Apr 24). Please verify on the official conference website. More info <a href='https://2027.sigdial.org/'>here</a>."
+    },
+    {
+      "conference": "SIGGRAPH",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "July 28 - August 1, 2027",
+        "start": "2027-07-28",
+        "end": "2027-08-01"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Computer Graphics"
+      ],
+      "subject_codes": [
+        "CG"
+      ],
+      "paper_deadline": "2027-01-24 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "GMT",
+      "h_index": null,
+      "website": "https://s2027.siggraph.org/",
+      "note": "Predicted deadline based on historical SIGGRAPH pattern (past deadlines — 2025 Jan 24, 2024 Jan 24, 2023 Jan 24). Please verify on the official conference website. More info <a href='https://s2027.siggraph.org/'>here</a>."
+    },
+    {
+      "conference": "SIGGRAPH Asia",
+      "full_name": "SIGGRAPH ASIA 2027",
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "December 2027",
+        "start": "2027-12-01",
+        "end": "2027-12-04"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Computer Graphics"
+      ],
+      "subject_codes": [
+        "CG"
+      ],
+      "paper_deadline": "2027-05-12 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://asia.siggraph.org/2027/",
+      "note": "Predicted deadline based on historical SIGGRAPH Asia pattern (past deadlines — 2026 May 12, 2025 May 23, 2024 May 19). Please verify on the official conference website. More info <a href='https://asia.siggraph.org/2027/'>here</a>."
+    },
+    {
+      "conference": "SIGIR",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "July 20-24, 2027",
+        "start": "2027-07-20",
+        "end": "2027-07-24"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2027-01-22 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 66,
+      "website": "https://sigir2027.org/en-AU/pages/attending/key-dates",
+      "note": "Predicted deadline based on historical SIGIR pattern (past deadlines — 2026 Jan 22, 2024 Jan 25, 2023 Jan 31). Please verify on the official conference website. More info <a href='https://sigir2027.org/en-AU/pages/attending/key-dates'>here</a>."
+    },
+    {
+      "conference": "SIGMOD-1",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "June 13-19, 2027",
+        "start": "2027-06-13",
+        "end": "2027-06-19"
+      },
+      "location": "Huntington Beach, California, USA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-01-17 23:59:00",
+      "abstract_deadline": "2026-01-10 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://2027.sigmod.org/",
+      "note": null
+    },
+    {
+      "conference": "SIGMOD-2",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "June 13-19, 2027",
+        "start": "2027-06-13",
+        "end": "2027-06-19"
+      },
+      "location": "Huntington Beach, California, USA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-04-17 23:59:00",
+      "abstract_deadline": "2026-04-10 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://2027.sigmod.org/",
+      "note": null
+    },
+    {
+      "conference": "SIGMOD-3",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "June 13-19, 2027",
+        "start": "2027-06-13",
+        "end": "2027-06-19"
+      },
+      "location": "Huntington Beach, California, USA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-07-17 23:59:00",
+      "abstract_deadline": "2026-07-10 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://2027.sigmod.org/",
+      "note": null
+    },
+    {
+      "conference": "SIGMOD-4",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "June 13-19, 2027",
+        "start": "2027-06-13",
+        "end": "2027-06-19"
+      },
+      "location": "Huntington Beach, California, USA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-10-17 23:59:00",
+      "abstract_deadline": "2026-10-10 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://2027.sigmod.org/",
+      "note": null
+    },
+    {
+      "conference": "STARSEM",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACL / SIGLEX",
+      "conference_dates": {
+        "text": "July 06, 2027",
+        "start": "2027-07-06",
+        "end": "2027-07-06"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2027-02-13 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://starsem2027.github.io/",
+      "note": "Predicted deadline based on historical STARSEM pattern (past deadlines — 2026 Feb 13, 2025 May 30, 2023 Mar 24). Please verify on the official conference website. More info <a href='https://starsem2027.github.io/'>here</a>."
+    },
+    {
+      "conference": "UAI",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "July 2027",
+        "start": "2027-07-01",
+        "end": "2027-07-31"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2027-02-25 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.auai.org/uai2027/",
+      "note": "Predicted deadline based on historical UAI pattern (past deadlines — 2026 Feb 25, 2025 Jan 5, 2024 Feb 9). Please verify on the official conference website. More info <a href='https://www.auai.org/uai2027/'>here</a>."
+    },
+    {
+      "conference": "UMAP",
+      "full_name": "ACM International Conference on User Modeling, Adaptation and Personalization",
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "June 8-11, 2027",
+        "start": "2027-06-08",
+        "end": "2027-06-11"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Human-Computer Interaction"
+      ],
+      "subject_codes": [
+        "HCI"
+      ],
+      "paper_deadline": "2027-01-29 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.um.org/umap2027/call-for-full-short-papers/",
+      "note": "Predicted deadline based on historical UMAP pattern (past deadlines — 2026 Jan 29). Please verify on the official conference website. More info <a href='https://www.um.org/umap2027/call-for-full-short-papers/'>here</a>."
+    },
+    {
+      "conference": "WACV",
+      "full_name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "year": 2027,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "Mar 6 – Mar 10, 2027",
+        "start": "2027-03-06",
+        "end": "2027-03-10"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "ML",
+        "CV"
+      ],
+      "paper_deadline": "2026-08-28 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 109,
+      "website": "https://wacv.thecvf.com/Conferences/2027/CallForPapers",
+      "note": null
+    },
+    {
+      "conference": "WACV",
+      "full_name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "year": 2027,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "Mar 6 – Mar 10, 2027",
+        "start": "2027-03-06",
+        "end": "2027-03-10"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "ML",
+        "CV"
+      ],
+      "paper_deadline": "2026-06-26 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 109,
+      "website": "https://wacv.thecvf.com/Conferences/2027/CallForPapers",
+      "note": "Round 1 paper enrollment June 19, 2026; round 2 paper enrollment August 21, 2026. All deadlines AoE. More info <a href='https://wacv.thecvf.com/Conferences/2027/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "WSDM",
+      "full_name": "ACM International Conference on Web Search and Data Mining",
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "February 15-19, 2027",
+        "start": "2027-02-15",
+        "end": "2027-02-19"
+      },
+      "location": "Hong Kong",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-08-24 23:59:59",
+      "abstract_deadline": "2026-08-17 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://wsdm-conference.org/2027/",
+      "note": "Notification Nov 2, 2026. All deadlines are 11:59 pm AoE. More info <a href='https://wsdm-conference.org/2027/'>here</a>."
+    },
+    {
+      "conference": "WWW",
+      "full_name": null,
+      "year": 2027,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "TBA, 2027",
+        "start": "2027-04-01",
+        "end": "2027-04-30"
+      },
+      "location": "Dublin, Ireland",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-10-13 23:59:59",
+      "abstract_deadline": "TBA",
+      "timezone": "UTC-12",
+      "h_index": 70,
+      "website": "https://www2027.thewebconf.org/",
+      "note": "Predicted deadline based on historical WWW pattern (past deadlines — 2025 Oct 13, 2022 Oct 13). Please verify on the official conference website. More info <a href='https://www2027.thewebconf.org/'>here</a>."
+    },
+    {
+      "conference": "3DV",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "March 20-23, 2026",
+        "start": "2026-03-20",
+        "end": "2026-03-23"
+      },
+      "location": "Vancouver, BC, Canada",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2025-08-18 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://3dvconf.github.io/2026/call-for-papers/",
+      "note": "Paper submission deadline: August 18, 2025 (23:59 PT). Supplementary material deadline: August 21, 2025. More info <a href='https://3dvconf.github.io/2026/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "AAAI",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "AAAI",
+      "conference_dates": {
+        "text": "Jan 20-27, 2026",
+        "start": "2026-01-20",
+        "end": "2026-01-27"
+      },
+      "location": "Singapore",
+      "subjects": [
+        "Data Mining",
+        "Knowledge Representation & Reasoning",
+        "Machine Learning",
+        "Robotics",
+        "Natural Language Processing",
+        "Signal Processing",
+        "Computer Vision",
+        "Computer Graphics",
+        "Human-Computer Interaction",
+        "Applications"
+      ],
+      "subject_codes": [
+        "DM",
+        "KR",
+        "ML",
+        "RO",
+        "NLP",
+        "SP",
+        "CV",
+        "CG",
+        "HCI",
+        "AP"
+      ],
+      "paper_deadline": "2025-07-25 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aaai.org/conference/aaai/aaai-26/",
+      "note": null
+    },
+    {
+      "conference": "AACL",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "November 6-10, 2026",
+        "start": "2026-11-06",
+        "end": "2026-11-10"
+      },
+      "location": "Hengqin, China",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-05-25 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2026.aaclnet.org/",
+      "note": "5th AACL & 15th IJCNLP. All submissions via ACL Rolling Review (ARR); ARR submission deadline May 25, 2026 (AoE), commitment deadline August 2, 2026, notification September 7, 2026. More info <a href='https://2026.aaclnet.org/calls/main_conference_papers/'>here</a>."
+    },
+    {
+      "conference": "AAMAS",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM / IFAAMAS",
+      "conference_dates": {
+        "text": "May 2026",
+        "start": "2026-05-01",
+        "end": "2026-05-31"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Knowledge Representation & Reasoning",
+        "Machine Learning",
+        "Robotics",
+        "Applications"
+      ],
+      "subject_codes": [
+        "KR",
+        "ML",
+        "RO",
+        "AP"
+      ],
+      "paper_deadline": "2025-10-16 23:59:59",
+      "abstract_deadline": "2025-10-09 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aamas2026.org/",
+      "note": "Predicted deadline based on historical AAMAS pattern. Please verify on the official conference website. More info <a href='https://aamas2026.org/'>here</a>."
+    },
+    {
+      "conference": "ACL",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 02 - July 07, 2026",
+        "start": "2026-07-02",
+        "end": "2026-07-07"
+      },
+      "location": "San Diego, CA, USA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-01-05 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 192,
+      "website": "https://2026.aclweb.org/calls/main_conference_papers/",
+      "note": "All submissions via ACL Rolling Review (ARR). ARR reviews available: March 9, 2026. Commitment deadline: March 14, 2026. Notification: April 4, 2026. Camera-ready: April 19, 2026. More info <a href='https://2026.aclweb.org/calls/main_conference_papers/'>here</a>."
+    },
+    {
+      "conference": "ACML",
+      "full_name": "Asian Conference on Machine Learning",
+      "year": 2026,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "December 1-4, 2026",
+        "start": "2026-12-01",
+        "end": "2026-12-04"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-06-26 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.acml-conf.org/2026/",
+      "note": "Conference track deadline. Journal track deadline: June 20, 2026. All deadlines AoE. More info <a href='https://www.acml-conf.org/2026/'>here</a>."
+    },
+    {
+      "conference": "AIED",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "Springer / IAIED",
+      "conference_dates": {
+        "text": "June 29 - July 24, 2026",
+        "start": "2026-06-29",
+        "end": "2025-07-3"
+      },
+      "location": "Seoul, Korea",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2026-02-02 23:59:59",
+      "abstract_deadline": "2026-01-26 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://aied-conference.org/2026/call-for-paper",
+      "note": null
+    },
+    {
+      "conference": "AISTATS",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "May 2-5, 2026",
+        "start": "2026-05-02",
+        "end": "2026-05-05"
+      },
+      "location": "Tangier, Morocco",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-10-02 23:59:59",
+      "abstract_deadline": "2025-09-25 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 100,
+      "website": "https://virtual.aistats.org/Conferences/2026/CallForPapers",
+      "note": "Mandatory abstract deadline on September 25, 2025. Supplementary material deadline: October 9, 2025. Notification: January 22, 2026. More info <a href='https://virtual.aistats.org/Conferences/2026/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "ARR",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 27 - Aug 01, 2027",
+        "start": "2027-07-27",
+        "end": "2027-08-01"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-08-03 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aclrollingreview.org/dates",
+      "note": "May commit to EACL2027. More info <a href=\"https://aclrollingreview.org/dates\">here</a>."
+    },
+    {
+      "conference": "ARR",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 27 - Aug 01, 2027",
+        "start": "2027-07-27",
+        "end": "2027-08-01"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-05-25 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aclrollingreview.org/dates",
+      "note": "May commit to EMNLP2026 and AACL2026. More info <a href=\"https://aclrollingreview.org/dates\">here</a>."
+    },
+    {
+      "conference": "ARR",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 00 - July 07, 2026",
+        "start": "2026-07-01",
+        "end": "2026-07-07"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-01-05 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aclrollingreview.org/dates",
+      "note": "All submissions should be done through ARR. More info <a href=\"https://aclrollingreview.org/dates\">here</a>."
+    },
+    {
+      "conference": "BEA",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 31, 2026",
+        "start": "2026-07-31",
+        "end": "2026-08-01"
+      },
+      "location": "Vienna, Austria",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2025-04-17 23:59:59",
+      "abstract_deadline": "2025-04-17 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://sig-edu.org/bea/2026",
+      "note": "More info <a href='https://sig-edu.org/bea/2026'>here</a>."
+    },
+    {
+      "conference": "BMVC",
+      "full_name": "The British Machine Vision Conference",
+      "year": 2026,
+      "publisher": "BMVA",
+      "conference_dates": {
+        "text": "November 23-26, 2026",
+        "start": "2026-11-23",
+        "end": "2026-11-26"
+      },
+      "location": "Lancaster, UK",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2026-05-29 23:59:59",
+      "abstract_deadline": "2026-05-22 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://bmvc2026.bmva.org/calls/call-for-papers/",
+      "note": "Official BMVC 2026 CFP: abstract deadline May 22, 2026 (23:59 AoE), paper and supplementary deadline May 29, 2026 (23:59 AoE), author notification August 7, 2026, camera-ready August 28, 2026. More info <a href='https://bmvc2026.bmva.org/calls/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "CHI",
+      "full_name": "The ACM Conference on Human Factors in Computing Systems",
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "April 26 - May 01, 2026",
+        "start": "2026-04-26",
+        "end": "2026-05-01"
+      },
+      "location": "Barcelona, Spain",
+      "subjects": [
+        "Human-Computer Interaction"
+      ],
+      "subject_codes": [
+        "HCI"
+      ],
+      "paper_deadline": "2025-09-11 23:59:59",
+      "abstract_deadline": "2025-09-04 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 122,
+      "website": "https://chi2026.acm.org/",
+      "note": "Mandatory abstract deadline on Sep 04, 2025. More info <a href='https://chi2026.acm.org/for-authors/papers/'>here</a>."
+    },
+    {
+      "conference": "CIKM",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "November 7-11, 2026",
+        "start": "2026-11-07",
+        "end": "2026-11-11"
+      },
+      "location": "Rome, Italy",
+      "subjects": [
+        "Data Mining",
+        "Knowledge Representation & Reasoning"
+      ],
+      "subject_codes": [
+        "DM",
+        "KR"
+      ],
+      "paper_deadline": "2026-05-23 23:59:59",
+      "abstract_deadline": "2026-05-16 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://cikm2026.diag.uniroma1.it/important-dates/",
+      "note": "Official key deadlines (AoE): full/applied abstract deadline May 16, 2026; full/applied submission deadline May 23, 2026. More info <a href='https://cikm2026.diag.uniroma1.it/important-dates/'>here</a>."
+    },
+    {
+      "conference": "COLM",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "COLM",
+      "conference_dates": {
+        "text": "Oct 06-09, 2026",
+        "start": "2026-10-06",
+        "end": "2026-10-09"
+      },
+      "location": "San Francisco",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML"
+      ],
+      "paper_deadline": "2026-03-31 23:59:59",
+      "abstract_deadline": "2026-03-26 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://colmweb.org/",
+      "note": "Mandatory paper registration deadline on 03/26/2026. More info <a href=\"\"https://colmweb.org/cfp.html'>here</a>."
+    },
+    {
+      "conference": "CSCW",
+      "full_name": "The ACM Conference on Computer-Supported Cooperative Work and Social Computing",
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "October 10-14, 2026",
+        "start": "2026-10-10",
+        "end": "2026-10-14"
+      },
+      "location": "Salt Lake City, Utah, USA",
+      "subjects": [
+        "Human-Computer Interaction"
+      ],
+      "subject_codes": [
+        "HCI"
+      ],
+      "paper_deadline": "2025-05-13 23:59:59",
+      "abstract_deadline": "2025-05-13 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 122,
+      "website": "https://cscw.acm.org/2026/",
+      "note": "CSCW 2026 is held October 10-14, 2026 in Salt Lake City, Utah, USA. CSCW uses a rolling review model. More info <a href='https://cscw.acm.org/2026/'>here</a>."
+    },
+    {
+      "conference": "CVAI",
+      "full_name": "International Symposium on Computer Vision and Artificial Intelligence",
+      "year": 2026,
+      "publisher": null,
+      "conference_dates": {
+        "text": "March 27-29, 2026",
+        "start": "2026-03-27",
+        "end": "2026-03-29"
+      },
+      "location": "Shanghai, China",
+      "subjects": [
+        "Computer Vision",
+        "Machine Learning",
+        "Robotics"
+      ],
+      "subject_codes": [
+        "CV",
+        "ML",
+        "RO"
+      ],
+      "paper_deadline": "2026-02-05 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "Asia/Shanghai",
+      "h_index": null,
+      "website": "https://www.cvai2026.org/index.html",
+      "note": "Extended deadline (originally Nov 30, 2025). Second round. First round deadline: Sep 25, 2025. More info <a href='https://www.cvai2026.org/index.html'>here</a>."
+    },
+    {
+      "conference": "CVC",
+      "full_name": "Computer Vision Conference",
+      "year": 2026,
+      "publisher": null,
+      "conference_dates": {
+        "text": "May 21-22, 2026",
+        "start": "2026-05-21",
+        "end": "2026-05-22"
+      },
+      "location": "Amsterdam, Netherlands",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2026-01-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://saiconference.com/CVC/CallforPapers",
+      "note": "Round 2 deadline. Round 1 deadline: October 1, 2025. Virtual participation available. More info <a href='https://saiconference.com/CVC/CallforPapers'>here</a>."
+    },
+    {
+      "conference": "CVPR",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "June 17-21, 2026",
+        "start": "2026-06-17",
+        "end": "2026-06-21"
+      },
+      "location": "Denver, Colorado, USA",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2025-11-13 23:59:59",
+      "abstract_deadline": "2025-11-07 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://cvpr.thecvf.com/Conferences/2026/CallForPapers",
+      "note": "Mandatory paper registration deadline typically 2 weeks before paper deadline. More info <a href='https://cvpr.thecvf.com/Conferences/2026/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "CoNLL",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL / SIGNLL",
+      "conference_dates": {
+        "text": "July 3-4, 2026",
+        "start": "2026-07-03",
+        "end": "2026-07-04"
+      },
+      "location": "San Diego",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-02-19 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 44,
+      "website": "https://conll.org/",
+      "note": "Co-located with ACL 2026"
+    },
+    {
+      "conference": "EACL",
+      "full_name": "The 19th Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "March 17-22, 2026",
+        "start": "2026-03-17",
+        "end": "2026-03-22"
+      },
+      "location": "Rabat, Morocco",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-10-06 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2026.eacl.org/",
+      "note": null
+    },
+    {
+      "conference": "ECCV",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "Springer",
+      "conference_dates": {
+        "text": "September 29 - October 04, 2026",
+        "start": "2026-09-29",
+        "end": "2026-10-04"
+      },
+      "location": "Milano, Italy",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2026-03-05 11:00:00",
+      "abstract_deadline": "2026-02-26 11:00:00",
+      "timezone": "Europe/Paris",
+      "h_index": 238,
+      "website": "https://eccv.ecva.net/Conferences/2026",
+      "note": "Paper registration deadline: February 26, 2026 (11:00 AM CET). Supplemental materials deadline: March 12, 2026. Reviews released: May 2, 2026. Rebuttal deadline: May 11, 2026. Final decisions: June 17, 2026. More info <a href='https://eccv.ecva.net/Conferences/2026'>here</a>."
+    },
+    {
+      "conference": "ECIR",
+      "full_name": "European Conference on Information Retrieval",
+      "year": 2026,
+      "publisher": "Springer",
+      "conference_dates": {
+        "text": "April 6 - April 10, 2026",
+        "start": "2026-04-06",
+        "end": "2026-04-10"
+      },
+      "location": "Lucca, Tuscany, Italy",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2024-10-09 23:59:59",
+      "abstract_deadline": "2024-10-02 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://ecir2026.eu/",
+      "note": "More info <a href='https://ecir2026.eu/'>here</a>."
+    },
+    {
+      "conference": "ECML PKDD",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "Springer",
+      "conference_dates": {
+        "text": "September 9-13, 2026",
+        "start": "2026-09-09",
+        "end": "2026-09-13"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-07-22 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 45,
+      "website": "https://2026.ecmlpkdd.org/",
+      "note": "More info <a href='https://2026.ecmlpkdd.org/'>here</a>."
+    },
+    {
+      "conference": "EDM",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "IEDMS",
+      "conference_dates": {
+        "text": "June 29 - July 03, 2026",
+        "start": "2026-06-29",
+        "end": "2026-07-03"
+      },
+      "location": "Seoul, South Korea",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2026-02-09 23:59:59",
+      "abstract_deadline": "2026-02-02 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://educationaldatamining.org/edm2026/call-for-papers/",
+      "note": "Mandatory abstract deadline on February 2, 2026. Workshop & Tutorial proposals also due February 9, 2026. More info <a href='https://educationaldatamining.org/edm2026/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "EMNLP",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "October 24-29, 2026",
+        "start": "2026-10-24",
+        "end": "2026-10-29"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-05-25 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2026.emnlp.org/",
+      "note": "All submissions via ACL Rolling Review (ARR). More info <a href='https://2026.emnlp.org/calls/main_conference_papers/'>here</a> . More info <a href='https://2026.emnlp.org/'>here</a>."
+    },
+    {
+      "conference": "ICAAAIML",
+      "full_name": "International Conference on Advances and Applications of Artificial Intelligence and Machine Learning",
+      "year": 2026,
+      "publisher": null,
+      "conference_dates": {
+        "text": "TBD",
+        "start": null,
+        "end": null
+      },
+      "location": "Greater Noida, India",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-04-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.icaaaiml.com/call.html",
+      "note": "More info <a href='https://www.icaaaiml.com/call.html'>here</a>."
+    },
+    {
+      "conference": "ICASSP",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "May 3-8, 2026",
+        "start": "2026-05-03",
+        "end": "2026-05-08"
+      },
+      "location": "Barcelona, Spain",
+      "subjects": [
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "SP"
+      ],
+      "paper_deadline": "2025-09-17 22:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-8",
+      "h_index": null,
+      "website": "https://2026.ieeeicassp.org/",
+      "note": null
+    },
+    {
+      "conference": "ICDE-2",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "May 4-8, 2026",
+        "start": "2026-05-04",
+        "end": "2026-05-08"
+      },
+      "location": "Montreal, Canada",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-10-27 23:59:00",
+      "abstract_deadline": "2025-10-27 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://icde2026.github.io/",
+      "note": "More info <a href='https://icde2026.github.io/'>here</a>."
+    },
+    {
+      "conference": "ICDM",
+      "full_name": "IEEE International Conference on Data Mining",
+      "year": 2026,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "November 12-15, 2026",
+        "start": "2026-11-12",
+        "end": "2026-11-15"
+      },
+      "location": "Shenyang, China",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-06-06 23:59:00",
+      "abstract_deadline": "2026-05-30 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "http://icdm2026.neu.edu.cn/",
+      "note": "Main Conference Full Paper Submission: June 6, 2026. Abstract Submission: May 30, 2026. Author Notification: August 16, 2026. More info <a href='http://icdm2026.neu.edu.cn/'>here</a>."
+    },
+    {
+      "conference": "ICLR",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ICLR (OpenReview)",
+      "conference_dates": {
+        "text": "Apr 24-28, 2026",
+        "start": "2026-04-24",
+        "end": "2026-04-28"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning",
+        "Applications",
+        "Robotics",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "ML",
+        "AP",
+        "RO",
+        "CV",
+        "NLP",
+        "SP"
+      ],
+      "paper_deadline": "2025-09-24 23:59:59",
+      "abstract_deadline": "2025-09-19 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 304,
+      "website": "https://iclr.cc/Conferences/2026/CallForPapers",
+      "note": "Mandatory abstract deadline on September 27, 2025. More info <a href='https://iclr.cc/Conferences/2026/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "ICML",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "July 6-11, 2026",
+        "start": "2026-07-06",
+        "end": "2026-07-11"
+      },
+      "location": "Seoul, South Korea",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-01-28 11:59:00",
+      "abstract_deadline": "2026-01-23 11:59:00",
+      "timezone": "America/Los_Angeles",
+      "h_index": 204,
+      "website": "https://icml.cc/Conferences/2026/CallForPapers",
+      "note": "Mandatory abstract deadline on January 23, 2026. Author notification: April 30, 2026. More info <a href='https://icml.cc/Conferences/2026/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "ICMLA",
+      "full_name": "International Conference on Machine Learning and Applications",
+      "year": 2026,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "October 5-7, 2026",
+        "start": "2026-10-05",
+        "end": "2026-10-07"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-05-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://www.icmla-conference.org/icmla26/callforpapers.html",
+      "note": "Main conference paper deadline is 11:59 PM PT. Special sessions/tutorial proposals due March 8, 2026. More info <a href='https://www.icmla-conference.org/icmla26/callforpapers.html'>here</a>."
+    },
+    {
+      "conference": "ICMLCN",
+      "full_name": "IEEE International Conference on Machine Learning for Communication and Networking",
+      "year": 2026,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "March 30 - April 2, 2026",
+        "start": "2026-03-30",
+        "end": "2026-04-02"
+      },
+      "location": "Abu Dhabi, United Arab Emirates",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-11-13 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://icmlcn2026.ieee-icmlcn.org/call-papers",
+      "note": "Extended deadline. Camera-ready due: February 25, 2026. More info <a href='https://icmlcn2026.ieee-icmlcn.org/call-papers'>here</a>."
+    },
+    {
+      "conference": "ICRA",
+      "full_name": "IEEE International Conference on Robotics and Automation",
+      "year": 2026,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "June 1-5, 2026",
+        "start": "2026-06-01",
+        "end": "2026-06-05"
+      },
+      "location": "Vienna, Austria",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2025-09-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": 119,
+      "website": "https://2026.ieee-icra.org/contribute/",
+      "note": "Workshops/tutorials deadline: September 25, 2025. More info <a href='https://2026.ieee-icra.org/contribute/'>here</a>."
+    },
+    {
+      "conference": "IJCAI-ECAI",
+      "full_name": "International Joint Conference on Artificial Intelligence",
+      "year": 2026,
+      "publisher": "IJCAI / EurAI",
+      "conference_dates": {
+        "text": "August 16-22, 2026",
+        "start": "2026-08-16",
+        "end": "2026-08-22"
+      },
+      "location": "Bremen, Germany",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-01-19 23:59:59",
+      "abstract_deadline": "2026-01-12 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 133,
+      "website": "https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-main-track",
+      "note": "Joint with ECAI 2026. Mandatory abstract deadline: January 12, 2026. More info <a href='https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-main-track'>here</a>."
+    },
+    {
+      "conference": "INLG",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL / SIGGEN",
+      "conference_dates": {
+        "text": "October 17-21, 2026",
+        "start": "2026-10-17",
+        "end": "2026-10-21"
+      },
+      "location": "Utrecht, the Netherlands",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-07-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2026.inlgmeeting.org/",
+      "note": "Direct paper and demo submission deadline July 15, 2026 (AoE). ARR commitment deadline August 5, 2026. Notification August 15, 2026. More info <a href='https://2026.inlgmeeting.org/calls.html'>here</a>."
+    },
+    {
+      "conference": "IROS",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "IEEE / RSJ",
+      "conference_dates": {
+        "text": "October 14-18, 2026",
+        "start": "2026-10-14",
+        "end": "2026-10-18"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2025-03-01 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": 80,
+      "website": "https://iros2026-abudhabi.org/",
+      "note": "More info <a href='https://iros2026-abudhabi.org/'>here</a>."
+    },
+    {
+      "conference": "IWSDS",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "February 26 - March 1, 2026",
+        "start": "2026-02-26",
+        "end": "2026-03-01"
+      },
+      "location": "Trento, Italy",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-10-28 23:59:59",
+      "abstract_deadline": "2025-10-22 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://sites.google.com/unitn.it/iwsds26/home/",
+      "note": "The 16th International Workshop on Spoken Dialogue Systems. Theme: \"Human-Machine Dialogue in the Era of Multimodal Foundation Models\". More info <a href=\"https://sites.google.com/unitn.it/iwsds26/home/\">here</a>."
+    },
+    {
+      "conference": "InterSpeech",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ISCA",
+      "conference_dates": {
+        "text": "Sept 27 to Oct 01, 2026",
+        "start": "2026-09-27",
+        "end": "2026-10-01"
+      },
+      "location": "Rotterdam, Netherlands",
+      "subjects": [
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "SP"
+      ],
+      "paper_deadline": "2026-03-02 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-0",
+      "h_index": null,
+      "website": "http://www.interspeech2026.org/",
+      "note": null
+    },
+    {
+      "conference": "KDD-1",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "August 9-13, 2026",
+        "start": "2026-08-09",
+        "end": "2026-08-13"
+      },
+      "location": "Jeju, Korea",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-07-31 23:59:59",
+      "abstract_deadline": "2025-07-24 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://kdd2026.kdd.org/research-track-call-for-papers/",
+      "note": "First cycle. Author rebuttal: October 4-18, 2025. More info <a href='https://kdd2026.kdd.org/research-track-call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "KDD-2",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "August 25-29, 2026",
+        "start": "2026-08-03",
+        "end": "2026-08-07"
+      },
+      "location": "Barcelona, Spain",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-02-10 23:59:59",
+      "abstract_deadline": "2026-02-03 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://kdd2025.kdd.org/",
+      "note": null
+    },
+    {
+      "conference": "LAK",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "March 3-7, 2026",
+        "start": "2026-03-03",
+        "end": "2026-03-07"
+      },
+      "location": "Dublin, Ireland",
+      "subjects": [
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "EDU"
+      ],
+      "paper_deadline": "2025-09-23 23:59:59",
+      "abstract_deadline": "2025-09-23 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://www.solaresearch.org/events/lak/lak26/",
+      "note": "Predicted deadline based on historical LAK pattern. Please verify on the official conference website. More info <a href='https://www.solaresearch.org/events/lak/lak26/'>here</a>."
+    },
+    {
+      "conference": "LREC",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ELRA",
+      "conference_dates": {
+        "text": "May 11-16, 2026",
+        "start": "2026-05-11",
+        "end": "2026-05-16"
+      },
+      "location": "Palma, Mallorca",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-10-17 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://lrec2026.info/",
+      "note": null
+    },
+    {
+      "conference": "Learing at Scale",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "June 29-July 03, 2026",
+        "start": "2026-06-29",
+        "end": "2026-07-03"
+      },
+      "location": "Seoul, Korea",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2026-02-16 23:59:59",
+      "abstract_deadline": "2026-02-09 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://learningatscale.hosting.acm.org/las2026/call-for-papers/",
+      "note": "Mandatory abstract deadline on February 9, 2026. Demonstrations deadline: April 14, 2026. More info <a href='https://learningatscale.hosting.acm.org/las2026/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "LoG",
+      "full_name": "Learning on Graphs Conference",
+      "year": 2026,
+      "publisher": "LoG (OpenReview)",
+      "conference_dates": {
+        "text": "November 26 - November 29, 2026",
+        "start": "2026-11-26",
+        "end": "2026-11-29"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Machine Learning",
+        "Data Mining",
+        "Knowledge Representation & Reasoning"
+      ],
+      "subject_codes": [
+        "ML",
+        "DM",
+        "KR"
+      ],
+      "paper_deadline": "2025-09-11 23:59",
+      "abstract_deadline": "2025-09-04 23:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://logconference.org",
+      "note": "More info <a href='https://logconference.org'>here</a>."
+    },
+    {
+      "conference": "MLSYS",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "MLSys Foundation",
+      "conference_dates": {
+        "text": "May 17-22, 2026",
+        "start": "2026-05-17",
+        "end": "2026-05-23"
+      },
+      "location": "Seattle",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-10-30 13:00:00",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://mlsys.org/Conferences/2026/",
+      "note": null
+    },
+    {
+      "conference": "MM",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "October 28 - November 1, 2026",
+        "start": "2026-10-28",
+        "end": "2026-11-01"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2025-04-08 23:59:59",
+      "abstract_deadline": "2025-04-12 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2026.acmmm.org/",
+      "note": "More info <a href='https://2026.acmmm.org/'>here</a>."
+    },
+    {
+      "conference": "NeurIPS",
+      "full_name": "Conference on Neural Information Processing Systems",
+      "year": 2026,
+      "publisher": "NeurIPS Foundation",
+      "conference_dates": {
+        "text": "December 6-12, 2026",
+        "start": "2026-12-06",
+        "end": "2026-12-12"
+      },
+      "location": "Sydney, Australia",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-05-06 23:59:59",
+      "abstract_deadline": "2026-05-04 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 309,
+      "website": "https://neurips.cc/Conferences/2026/CallForPapers",
+      "note": "Abstract deadline May 4, 2026; full paper (incl. supplementary materials) May 6, 2026 (Anywhere on Earth). Author notification September 24, 2026 (AoE). All authors need an OpenReview profile. More info <a href='https://neurips.cc/Conferences/2026/CallForPapers'>here</a> and <a href='https://neurips.cc/Conferences/2026/Dates'>dates</a>."
+    },
+    {
+      "conference": "RSS",
+      "full_name": "Robotics: Science and Systems",
+      "year": 2026,
+      "publisher": "RSS Foundation",
+      "conference_dates": {
+        "text": "July 13-17, 2026",
+        "start": "2026-07-13",
+        "end": "2026-07-17"
+      },
+      "location": "Sydney, Australia",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2026-01-30 23:59:59",
+      "abstract_deadline": "2026-01-23 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 61,
+      "website": "https://roboticsconference.org/information/cfp/",
+      "note": "Abstract/title deadline: January 23, 2026. Supplementary material deadline: February 6, 2026. More info <a href='https://roboticsconference.org/information/cfp/'>here</a>."
+    },
+    {
+      "conference": "RecSys",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "September 28 - October 2, 2026",
+        "start": "2026-09-28",
+        "end": "2026-10-02"
+      },
+      "location": "Minneapolis, Minnesota, USA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-04-21 23:59:59",
+      "abstract_deadline": "2026-04-14 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/",
+      "note": "Mandatory abstract deadline on April 14, 2026. Author rebuttal period: June 4-9, 2026. Notification: July 9, 2026. Camera-ready due: July 27, 2026. More info <a href='https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/'>here</a>."
+    },
+    {
+      "conference": "SIGDIAL",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL / ISCA",
+      "conference_dates": {
+        "text": "Aug 01-05, 2026",
+        "start": "2026-08-01",
+        "end": "2026-08-05"
+      },
+      "location": "Atlanta, Geogia",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-04-20 23:59:59",
+      "abstract_deadline": "2026-04-13 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2026.sigdial.org/",
+      "note": "Paper registration deadline on 04/13/2026. ARR commitment date is May 25.  More info <a href='https://2026.sigdial.org/calls/main_conference/'>here</a>."
+    },
+    {
+      "conference": "SIGGRAPH",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "July 28 - August 1, 2026",
+        "start": "2026-07-28",
+        "end": "2026-08-01"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Computer Graphics"
+      ],
+      "subject_codes": [
+        "CG"
+      ],
+      "paper_deadline": "2025-01-24 22:00:00",
+      "abstract_deadline": "2025-01-23 22:00:00",
+      "timezone": "GMT",
+      "h_index": null,
+      "website": "https://s2026.siggraph.org/",
+      "note": "More info <a href='https://s2026.siggraph.org/'>here</a>."
+    },
+    {
+      "conference": "SIGGRAPH Asia",
+      "full_name": "SIGGRAPH ASIA 2026",
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "December 1-4, 2026",
+        "start": "2026-12-01",
+        "end": "2026-12-04"
+      },
+      "location": "Kuala Lumpur, Malaysia",
+      "subjects": [
+        "Computer Graphics"
+      ],
+      "subject_codes": [
+        "CG"
+      ],
+      "paper_deadline": "2026-05-12 23:59:59",
+      "abstract_deadline": "2026-05-05 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://asia.siggraph.org/2026/submissions/technical-papers/",
+      "note": "Technical Papers deadlines (23:59 AoE): abstract deadline May 5, 2026; full paper deadline May 12, 2026; upload deadline May 13, 2026. More info <a href='https://asia.siggraph.org/2026/submissions/technical-papers/'>here</a>."
+    },
+    {
+      "conference": "SIGIR",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "July 20-24, 2026",
+        "start": "2026-07-20",
+        "end": "2026-07-24"
+      },
+      "location": "Melbourne, Australia",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2026-01-22 23:59:00",
+      "abstract_deadline": "2026-01-15 23:59:00",
+      "timezone": "UTC-12",
+      "h_index": 66,
+      "website": "https://sigir2026.org/en-AU/pages/attending/key-dates",
+      "note": "Mandatory abstract deadline on January 15, 2026. Notification of acceptance: April 2, 2026. Camera-ready papers due: April 29, 2026. More info <a href='https://sigir2026.org/en-AU/pages/attending/key-dates'>here</a>."
+    },
+    {
+      "conference": "SIGMOD-1",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "May 31- June 5, 2026",
+        "start": "2026-05-31",
+        "end": "2026-06-05"
+      },
+      "location": "Bangalore, India",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-01-17 23:59:00",
+      "abstract_deadline": "2025-01-10 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://2026.sigmod.org/",
+      "note": null
+    },
+    {
+      "conference": "SIGMOD-2",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "May 31- June 5, 2026",
+        "start": "2026-05-31",
+        "end": "2026-06-05"
+      },
+      "location": "Bangalore, India",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-04-17 23:59:00",
+      "abstract_deadline": "2025-04-10 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://2026.sigmod.org/",
+      "note": null
+    },
+    {
+      "conference": "SIGMOD-3",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "May 31- June 5, 2026",
+        "start": "2026-05-31",
+        "end": "2026-06-05"
+      },
+      "location": "Bangalore, India",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-07-17 23:59:00",
+      "abstract_deadline": "2025-07-10 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://2026.sigmod.org/",
+      "note": null
+    },
+    {
+      "conference": "SIGMOD-4",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "May 31- June 5, 2026",
+        "start": "2026-05-31",
+        "end": "2026-06-05"
+      },
+      "location": "Bangalore, India",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-10-10 23:59:00",
+      "abstract_deadline": "2025-10-10 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://2026.sigmod.org/",
+      "note": null
+    },
+    {
+      "conference": "STARSEM",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL / SIGLEX",
+      "conference_dates": {
+        "text": "July 06, 2026",
+        "start": "2026-07-06",
+        "end": "2026-07-06"
+      },
+      "location": "San Diego, CA, US",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-02-13 23:59:59",
+      "abstract_deadline": "2026-02-13 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://starsem2026.github.io/",
+      "note": null
+    },
+    {
+      "conference": "UAI",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "July 21-25, 2025",
+        "start": "2026-08-17",
+        "end": "2026-08-21"
+      },
+      "location": "Amsterdam, Netherlands",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2026-02-25 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.auai.org/uai20256/",
+      "note": null
+    },
+    {
+      "conference": "UMAP",
+      "full_name": "ACM International Conference on User Modeling, Adaptation and Personalization",
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "June 8-11, 2026",
+        "start": "2026-06-08",
+        "end": "2026-06-11"
+      },
+      "location": "Gothenburg, Sweden",
+      "subjects": [
+        "Human-Computer Interaction"
+      ],
+      "subject_codes": [
+        "HCI"
+      ],
+      "paper_deadline": "2026-01-29 23:59:59",
+      "abstract_deadline": "2026-01-22 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.um.org/umap2026/call-for-full-short-papers/",
+      "note": "Mandatory abstract deadline on January 22, 2026. Notification: March 25, 2026. Camera-ready: April 10, 2026. More info <a href='https://www.um.org/umap2026/call-for-full-short-papers/'>here</a>."
+    },
+    {
+      "conference": "UncertaiNLP",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "Nov 15-18, 2026",
+        "start": "2026-11-15",
+        "end": "2026-11-18"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2026-08-08 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://uncertainlp.github.io/#important-dates",
+      "note": "Predicted deadline based on historical UncertaiNLP pattern. Please verify on the official conference website. More info <a href='https://uncertainlp.github.io/#important-dates'>here</a>."
+    },
+    {
+      "conference": "WACV",
+      "full_name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "year": 2026,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "Mar 6 – Mar 10, 2026",
+        "start": "2026-03-06",
+        "end": "2026-03-10"
+      },
+      "location": "Tucson, Arizona",
+      "subjects": [
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "ML",
+        "CV"
+      ],
+      "paper_deadline": "2025-09-19 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-7",
+      "h_index": 109,
+      "website": "https://wacv2026.thecvf.com/",
+      "note": "This is the second round of submissions. Paper deadline on Sept 19, 2025. More info <a href='https://wacv2026.thecvf.com/'>here</a>."
+    },
+    {
+      "conference": "WACV",
+      "full_name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "year": 2026,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "Mar 6 – Mar 10, 2026",
+        "start": "2026-03-06",
+        "end": "2026-03-10"
+      },
+      "location": "Tucson, Arizona",
+      "subjects": [
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "ML",
+        "CV"
+      ],
+      "paper_deadline": "2025-07-11 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-7",
+      "h_index": 109,
+      "website": "https://wacv2026.thecvf.com/",
+      "note": "This is the first round of submissions. Paper deadline on July 18, 2025. More info <a href='https://wacv2026.thecvf.com/'>here</a>."
+    },
+    {
+      "conference": "WSDM",
+      "full_name": "ACM International Conference on Web Search and Data Mining",
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "February 22-26, 2026",
+        "start": "2026-02-22",
+        "end": "2026-02-26"
+      },
+      "location": "Boise, Idaho, USA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-08-14 23:59:59",
+      "abstract_deadline": "2025-08-07 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://wsdm-conference.org/2026/index.php/call-for-papers/",
+      "note": "Short paper track: Sep 25, 2025. More info <a href='https://wsdm-conference.org/2026/index.php/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "WWW",
+      "full_name": null,
+      "year": 2026,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "April 30 - May 4, 2026",
+        "start": "2026-04-30",
+        "end": "2026-05-04"
+      },
+      "location": "TBA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-10-13 23:59:59",
+      "abstract_deadline": "2025-10-06 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 70,
+      "website": "https://www2026.thewebconf.org/",
+      "note": "More info <a href='https://www2026.thewebconf.org/'>here</a>."
+    },
+    {
+      "conference": "3DV",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "March 25-28, 2025",
+        "start": "2025-03-25",
+        "end": "2025-03-28"
+      },
+      "location": "Singapore",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2024-08-12 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://3dvconf.github.io/2025/call-for-papers",
+      "note": "Paper submission deadline: August 12, 2024 (23:59 PT). Supplementary material deadline: August 19, 2024. More info <a href='https://3dvconf.github.io/2025/call-for-papers'>here</a>."
+    },
+    {
+      "conference": "AAAI",
+      "full_name": "AAAI Conference on Artificial Intelligence",
+      "year": 2025,
+      "publisher": "AAAI",
+      "conference_dates": {
+        "text": "February 25 - March 04, 2025",
+        "start": "2025-02-25",
+        "end": "2025-03-04"
+      },
+      "location": "Philadelphia, USA",
+      "subjects": [
+        "Data Mining",
+        "Knowledge Representation & Reasoning",
+        "Machine Learning",
+        "Robotics",
+        "Natural Language Processing",
+        "Signal Processing",
+        "Computer Vision",
+        "Computer Graphics",
+        "Human-Computer Interaction",
+        "Applications"
+      ],
+      "subject_codes": [
+        "DM",
+        "KR",
+        "ML",
+        "RO",
+        "NLP",
+        "SP",
+        "CV",
+        "CG",
+        "HCI",
+        "AP"
+      ],
+      "paper_deadline": "2024-08-15 23:59:59",
+      "abstract_deadline": "2024-08-07 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 212,
+      "website": "https://aaai.org/conference/aaai/aaai-25/",
+      "note": "Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024. More info <a href='https://aaai.org/conference/aaai/aaai-25/'>here</a>."
+    },
+    {
+      "conference": "AACL",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "Dec 20-25, 2025",
+        "start": "2025-12-20",
+        "end": "2025-12-25"
+      },
+      "location": "Mumbai, India",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-07-28 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.afnlp.org/conferences/ijcnlp2025/",
+      "note": null
+    },
+    {
+      "conference": "AAMAS",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACM / IFAAMAS",
+      "conference_dates": {
+        "text": "May 19 - May 23, 2025",
+        "start": "2025-05-19",
+        "end": "2025-05-23"
+      },
+      "location": "Detroit, Michigan, USA",
+      "subjects": [
+        "Knowledge Representation & Reasoning",
+        "Machine Learning",
+        "Robotics",
+        "Applications"
+      ],
+      "subject_codes": [
+        "KR",
+        "ML",
+        "RO",
+        "AP"
+      ],
+      "paper_deadline": "2024-10-16 23:59:59",
+      "abstract_deadline": "2024-10-09 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aamas2025.org/",
+      "note": "Mandatory abstract deadline on Oct 09, 2024. More info <a href='https://aamas2025.org/'>here</a>."
+    },
+    {
+      "conference": "ACL",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 27 - Aug 01, 2025",
+        "start": "2025-07-27",
+        "end": "2025-08-01"
+      },
+      "location": "Vienna, Austria",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-02-15 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 192,
+      "website": "https://2025.aclweb.org/",
+      "note": "All submissions should be done through ARR. More info <a href=\"https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf\">here</a>."
+    },
+    {
+      "conference": "ACML",
+      "full_name": "Asian Conference on Machine Learning",
+      "year": 2025,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "December 9-12, 2025",
+        "start": "2025-12-09",
+        "end": "2025-12-12"
+      },
+      "location": "Taipei, Taiwan",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-06-26 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.acml-conf.org/2025/papers.htm",
+      "note": "Conference track deadline. Journal track deadline: May 30, 2025. More info <a href='https://www.acml-conf.org/2025/papers.htm'>here</a>."
+    },
+    {
+      "conference": "AIED",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "Springer / IAIED",
+      "conference_dates": {
+        "text": "July 22-24, 2025",
+        "start": "2025-07-22",
+        "end": "2025-07-24"
+      },
+      "location": "Sicily, Italy",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2025-02-19 23:59:59",
+      "abstract_deadline": "2025-02-12 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://aied2025.itd.cnr.it/",
+      "note": "Mandatory paper registration deadline on Feb 12, 2025. More info <a href='https://aied2025.itd.cnr.it/'>here</a>."
+    },
+    {
+      "conference": "AISTATS",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "May 03-05, 2025",
+        "start": "2025-05-03",
+        "end": "2025-05-05"
+      },
+      "location": "Phuket, Thailand",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2024-10-10 23:59:59",
+      "abstract_deadline": "2024-10-03 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 100,
+      "website": "https://aistats.org/aistats2025/index.html",
+      "note": null
+    },
+    {
+      "conference": "ARR",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 27 - Aug 01, 2026",
+        "start": "2026-07-27",
+        "end": "2026-08-01"
+      },
+      "location": "America(TBU)",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-05-15 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aclrollingreview.org/dates",
+      "note": "All submissions should be done through ARR. More info <a href=\"https://aclrollingreview.org/dates\">here</a>."
+    },
+    {
+      "conference": "ARR",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 27 - Aug 01, 2026",
+        "start": "2026-07-27",
+        "end": "2026-08-01"
+      },
+      "location": "America(TBU)",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-07-15 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aclrollingreview.org/dates",
+      "note": "All submissions should be done through ARR. More info <a href=\"https://aclrollingreview.org/dates\">here</a>."
+    },
+    {
+      "conference": "ARR",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 27 - Aug 01, 2026",
+        "start": "2026-07-27",
+        "end": "2026-08-01"
+      },
+      "location": "America(TBU)",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-10-15 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aclrollingreview.org/dates",
+      "note": "All submissions should be done through ARR. More info <a href=\"https://aclrollingreview.org/dates\">here</a>."
+    },
+    {
+      "conference": "BEA",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "July 31, 2025",
+        "start": "2025-07-31",
+        "end": "2025-08-01"
+      },
+      "location": "Vienna, Austria",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2025-04-17 23:59:59",
+      "abstract_deadline": "2025-04-17 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://sig-edu.org/bea/2025",
+      "note": "Mandatory paper registration deadline on Feb 13, 2025. More info <a href='https://sig-edu.org/bea/2025'>here</a>."
+    },
+    {
+      "conference": "CHI",
+      "full_name": "The ACM Conference on Human Factors in Computing Systems",
+      "year": 2025,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "April 26 - May 01, 2025",
+        "start": "2025-04-26",
+        "end": "2025-05-01"
+      },
+      "location": "Yokohama, Japan",
+      "subjects": [
+        "Human-Computer Interaction"
+      ],
+      "subject_codes": [
+        "HCI"
+      ],
+      "paper_deadline": "2024-09-12 23:59:59",
+      "abstract_deadline": "2024-09-05 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 122,
+      "website": "https://chi2025.acm.org/",
+      "note": "Mandatory abstract deadline on Sep 05, 2024. More info <a href='https://chi2025.acm.org/for-authors/papers/'>here</a>."
+    },
+    {
+      "conference": "CIKM",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "November 10-14, 2025",
+        "start": "2025-11-10",
+        "end": "2025-11-14"
+      },
+      "location": "Seoul, South Korea",
+      "subjects": [
+        "Data Mining",
+        "Knowledge Representation & Reasoning"
+      ],
+      "subject_codes": [
+        "DM",
+        "KR"
+      ],
+      "paper_deadline": "2025-05-23 23:59:59",
+      "abstract_deadline": "2025-05-16 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://cikm2025.org/",
+      "note": "Official key deadlines (AoE): full/applied abstract deadline May 16, 2025; full/applied submission deadline May 23, 2025. More info <a href='https://www.cikm2025.org/calls/full-research-papers'>here</a>."
+    },
+    {
+      "conference": "COLING",
+      "full_name": "The 31st International Conference on Computational Linguistics",
+      "year": 2025,
+      "publisher": "ICCL / ACL",
+      "conference_dates": {
+        "text": "January 19-24, 2025",
+        "start": "2025-01-19",
+        "end": "2025-01-24"
+      },
+      "location": "Abu Dhabi, UAE",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2024-09-16 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 73,
+      "website": "https://coling2025.org/",
+      "note": "More info can be found <a href=\"https://coling2025.org/calls/main_conference_papers/#important-dates\">here</a>."
+    },
+    {
+      "conference": "COLM",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "COLM",
+      "conference_dates": {
+        "text": "Oct 7-09, 2025",
+        "start": "2025-10-07",
+        "end": "2025-10-09"
+      },
+      "location": "Montreal, Canada",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML"
+      ],
+      "paper_deadline": "2025-03-27 23:59:59",
+      "abstract_deadline": "2025-03-20 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://colmweb.org/",
+      "note": "Mandatory abstract deadline on March 20, 2025. More info <a href='https://colmweb.org/cfp.html'>here</a>."
+    },
+    {
+      "conference": "CVPR",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "June 10-17, 2025",
+        "start": "2025-06-10",
+        "end": "2025-06-17"
+      },
+      "location": "Nashville, Tennessee, USA",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2024-11-15 06:59:59",
+      "abstract_deadline": "2024-11-08 06:59:59",
+      "timezone": "GMT",
+      "h_index": 389,
+      "website": "https://cvpr.thecvf.com/Conferences/2025",
+      "note": "Mandatory paper registration deadline on November 07, 2024. More info <a href='https://cvpr.thecvf.com/Conferences/2025'>here</a>."
+    },
+    {
+      "conference": "ECIR",
+      "full_name": "European Conference on Information Retrieval",
+      "year": 2025,
+      "publisher": "Springer",
+      "conference_dates": {
+        "text": "April 6 - April 10, 2025",
+        "start": "2025-04-06",
+        "end": "2025-04-10"
+      },
+      "location": "Lucca, Tuscany, Italy",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2024-10-09 23:59:59",
+      "abstract_deadline": "2024-10-02 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://ecir2025.eu/",
+      "note": "Abstract deadline on Oct 2, 2024. More info <a href='https://ecir2025.eu/'>here</a>."
+    },
+    {
+      "conference": "EDM",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "IEDMS",
+      "conference_dates": {
+        "text": "July 20-23, 2025",
+        "start": "2025-07-20",
+        "end": "2025-07-23"
+      },
+      "location": "Sicily, Italy",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2025-02-20 23:59:59",
+      "abstract_deadline": "2025-02-13 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://educationaldatamining.org/edm2025/",
+      "note": "Mandatory paper registration deadline on Feb 13, 2025. More info <a href='https://educationaldatamining.org/edm2025/'>here</a>."
+    },
+    {
+      "conference": "EMNLP",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "November 5-9, 2025",
+        "start": "2025-11-05",
+        "end": "2025-11-09"
+      },
+      "location": "Suzhou, China",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-05-19 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2025.emnlp.org/",
+      "note": null
+    },
+    {
+      "conference": "ICAAAIML",
+      "full_name": "International Conference on Advances and Applications of Artificial Intelligence and Machine Learning",
+      "year": 2025,
+      "publisher": null,
+      "conference_dates": {
+        "text": "TBD",
+        "start": null,
+        "end": null
+      },
+      "location": "Greater Noida, India",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-04-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.icaaaiml.com/call.html",
+      "note": "Acceptance notification: June 15, 2025. Camera-ready: June 20, 2025. More info <a href='https://www.icaaaiml.com/call.html'>here</a>."
+    },
+    {
+      "conference": "ICASSP",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "April 6-11, 2025",
+        "start": "2025-04-06",
+        "end": "2025-04-11"
+      },
+      "location": "Hyderabad, India",
+      "subjects": [
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "SP"
+      ],
+      "paper_deadline": "2024-09-09 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2025.ieeeicassp.org/",
+      "note": null
+    },
+    {
+      "conference": "ICCV",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "Oct 19-23, 2025",
+        "start": "2025-10-19",
+        "end": "2025-10-23"
+      },
+      "location": "Honolulu, Hawai'i",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2025-03-07 06:59:59",
+      "abstract_deadline": "2025-03-03 06:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://iccv.thecvf.com/",
+      "note": "Mandatory paper registration deadline on March 03, 2025. More info <a href='https://iccv.thecvf.com/'>here</a>."
+    },
+    {
+      "conference": "ICDE-1",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "May 4-8, 2026",
+        "start": "2026-05-04",
+        "end": "2026-05-08"
+      },
+      "location": "Montreal, Canada",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-06-18 23:59:00",
+      "abstract_deadline": "2025-06-18 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://icde2026.github.io/",
+      "note": "First review cycle for ICDE 2026. Conference dates are May 2026. More info <a href='https://icde2026.github.io/'>here</a>."
+    },
+    {
+      "conference": "ICDE-2",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "May 4-8, 2026",
+        "start": "2026-05-04",
+        "end": "2026-05-08"
+      },
+      "location": "Montreal, Canada",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-10-27 23:59:00",
+      "abstract_deadline": "2025-10-27 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://icde2026.github.io/",
+      "note": "Second review cycle for ICDE 2026. Conference dates are May 2026. More info <a href='https://icde2026.github.io/'>here</a>."
+    },
+    {
+      "conference": "ICDM",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "November 12-15, 2025",
+        "start": "2025-11-12",
+        "end": "2025-11-15"
+      },
+      "location": "Washington DC, USA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-06-06 23:59:00",
+      "abstract_deadline": "2025-06-06 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://www3.cs.stonybrook.edu/~icdm2025/cfp.html",
+      "note": null
+    },
+    {
+      "conference": "ICLR",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ICLR (OpenReview)",
+      "conference_dates": {
+        "text": "Apr 24-28, 2025",
+        "start": "2025-04-24",
+        "end": "2025-04-28"
+      },
+      "location": "Singapore",
+      "subjects": [
+        "Machine Learning",
+        "Applications",
+        "Robotics",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "ML",
+        "AP",
+        "RO",
+        "CV",
+        "NLP",
+        "SP"
+      ],
+      "paper_deadline": "2024-10-01 23:59:59",
+      "abstract_deadline": "2024-09-27 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 304,
+      "website": "https://iclr.cc/Conferences/2025/CallForPapers",
+      "note": "Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "ICMLA",
+      "full_name": "International Conference on Machine Learning and Applications",
+      "year": 2025,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "December 3-5, 2025",
+        "start": "2025-12-03",
+        "end": "2025-12-05"
+      },
+      "location": "TBD",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-07-28 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://www.icmla-conference.org/icmla25/callforpapers.html",
+      "note": "Extended deadline (originally July 15, 2025). Special sessions/tutorials deadline: May 8, 2025. More info <a href='https://www.icmla-conference.org/icmla25/callforpapers.html'>here</a>."
+    },
+    {
+      "conference": "ICRA",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "May 19 - May 23, 2025",
+        "start": "2025-05-19",
+        "end": "2025-05-23"
+      },
+      "location": "Atlanta, USA",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2024-09-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": 119,
+      "website": "https://2025.ieee-icra.org",
+      "note": null
+    },
+    {
+      "conference": "IJCAI",
+      "full_name": "International Joint Conference on Artificial Intelligence",
+      "year": 2025,
+      "publisher": "IJCAI",
+      "conference_dates": {
+        "text": "August 16-22, 2025",
+        "start": "2025-08-16",
+        "end": "2025-08-23"
+      },
+      "location": "Montreal, Canada",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-01-23 23:59:59",
+      "abstract_deadline": "2025-01-16 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 133,
+      "website": "https://2025.ijcai.org/",
+      "note": "Mandatory abstract deadline on January 16, 2025 and optional supplementary material deadline on January 23, 2025. More info <a href='https://2025.ijcai.org/'>here</a>."
+    },
+    {
+      "conference": "INLG",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL / SIGGEN",
+      "conference_dates": {
+        "text": "October 29 - November 2, 2025",
+        "start": "2025-10-29",
+        "end": "2025-11-02"
+      },
+      "location": "Hanoi, Vietnam",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-07-18 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2025.inlgmeeting.org/",
+      "note": "18th INLG. Regular paper submission deadline July 18, 2025 (AoE). More info <a href='https://2025.inlgmeeting.org/'>here</a>."
+    },
+    {
+      "conference": "IWSDS",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "May 27-30, 2025",
+        "start": "2025-05-27",
+        "end": "2025-05-30"
+      },
+      "location": "Bilbao, Spain",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-01-11 23:59:59",
+      "abstract_deadline": "2025-01-17 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://sites.google.com/view/iwsds2025/important-dates",
+      "note": "Mandatory paper registration deadline on Jan 11, 2025. More info <a href='https://sites.google.com/view/iwsds2025/important-dates'>here</a>."
+    },
+    {
+      "conference": "InterSpeech",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ISCA",
+      "conference_dates": {
+        "text": "August 17-22, 2025",
+        "start": "2025-08-17",
+        "end": "2025-08-22"
+      },
+      "location": "Rotterdam, Netherlands",
+      "subjects": [
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "SP"
+      ],
+      "paper_deadline": "2025-02-19 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-0",
+      "h_index": null,
+      "website": "http://www.interspeech2025.org/",
+      "note": null
+    },
+    {
+      "conference": "KDD-1",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "August 25-29, 2024",
+        "start": "2025-08-03",
+        "end": "2024-08-07"
+      },
+      "location": "Barcelona, Spain",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2024-08-08 23:59:59",
+      "abstract_deadline": "2024-08-01 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://kdd2025.kdd.org/",
+      "note": null
+    },
+    {
+      "conference": "KDD-2",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "August 3-7, 2025",
+        "start": "2025-08-03",
+        "end": "2025-08-07"
+      },
+      "location": "Toronto, Ontario, Canada",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2025-02-10 23:59:59",
+      "abstract_deadline": "2025-02-03 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://kdd2025.kdd.org/research-track-call-for-papers/",
+      "note": "Second cycle. Datasets & Benchmarks track: Feb 24, 2025. More info <a href='https://kdd2025.kdd.org/research-track-call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "LAK",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "March 3-7, 2025",
+        "start": "2025-03-03",
+        "end": "2025-03-07"
+      },
+      "location": "Dublin, Ireland",
+      "subjects": [
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "EDU"
+      ],
+      "paper_deadline": "2024-09-23 23:59:59",
+      "abstract_deadline": "2024-09-23 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://www.solaresearch.org/events/lak/lak25/",
+      "note": "Mandatory paper registration deadline on Sept 23, 2024. More info <a href='https://www.solaresearch.org/events/lak/lak25/'>here</a>."
+    },
+    {
+      "conference": "Learing at Scale",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "July 21-23, 2025",
+        "start": "2025-07-21",
+        "end": "2025-07-23"
+      },
+      "location": "Dublin, Ireland",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2025-02-20 23:59:59",
+      "abstract_deadline": "2025-02-13 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://learningatscale.hosting.acm.org/las2025/index.php/call-for-papers/",
+      "note": "Mandatory paper registration deadline on Feb 13, 2024. More info <a href='https://learningatscale.hosting.acm.org/las2025/index.php/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "NAACL",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "April 29 - May 4, 2025",
+        "start": "2025-04-29",
+        "end": "2025-05-04"
+      },
+      "location": "Albuquerque, New Mexico, USA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2024-10-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 132,
+      "website": "https://2025.naacl.org",
+      "note": "All submissions must be done through ARR. More info <a href='https://2025.naacl.org/calls/papers/'>here</a>."
+    },
+    {
+      "conference": "NeurIPS",
+      "full_name": "Conference on Neural Information Processing Systems",
+      "year": 2025,
+      "publisher": "NeurIPS Foundation",
+      "conference_dates": {
+        "text": "Dec 01-07, 2025",
+        "start": "2025-12-01",
+        "end": "2025-12-07"
+      },
+      "location": "San Diego, USA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-05-16 19:59:59",
+      "abstract_deadline": "2025-05-12 19:59:59",
+      "timezone": "UTC",
+      "h_index": 309,
+      "website": "https://nips.cc/Conferences/2025",
+      "note": "Mandatory abstract deadline on May 12, 2025"
+    },
+    {
+      "conference": "RSS",
+      "full_name": "Robotics: Science and Systems",
+      "year": 2025,
+      "publisher": "RSS Foundation",
+      "conference_dates": {
+        "text": "June 21-25, 2025",
+        "start": "2025-06-21",
+        "end": "2025-06-25"
+      },
+      "location": "Los Angeles, USA",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2025-01-24 23:59:59",
+      "abstract_deadline": "2025-01-17 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 61,
+      "website": "https://roboticsconference.org/2025/information/cfp/",
+      "note": "Title/abstract deadline: January 17, 2025. Final PDF and supplementary material deadline: January 31, 2025. More info <a href='https://roboticsconference.org/2025/information/cfp/'>here</a>."
+    },
+    {
+      "conference": "SIGDIAL",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL / ISCA",
+      "conference_dates": {
+        "text": "Aug 25-27, 2025",
+        "start": "2025-08-25",
+        "end": "2025-08-27"
+      },
+      "location": "Avignon University, France",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-04-28 23:59:59",
+      "abstract_deadline": "2025-04-21 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2025.sigdial.org/",
+      "note": "Mandatory paper registration deadline on April 21, 2025. More info <a href='https://2025.sigdial.org/'>here</a>."
+    },
+    {
+      "conference": "SIGGRAPH Asia",
+      "full_name": "SIGGRAPH ASIA 2025",
+      "year": 2025,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "December 15-18, 2025",
+        "start": "2025-12-15",
+        "end": "2025-12-18"
+      },
+      "location": "Hong Kong, China",
+      "subjects": [
+        "Computer Graphics"
+      ],
+      "subject_codes": [
+        "CG"
+      ],
+      "paper_deadline": "2025-05-23 23:59:59",
+      "abstract_deadline": "2025-05-16 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://asia.siggraph.org/2025/submissions/technical-papers/",
+      "note": "Technical Papers deadlines (23:59 AoE): submission form deadline May 16, 2025; full paper deadline May 23, 2025; upload deadline May 24, 2025. More info <a href='https://asia.siggraph.org/2025/submissions/technical-papers/'>here</a>."
+    },
+    {
+      "conference": "STARSEM",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL / SIGLEX",
+      "conference_dates": {
+        "text": "Sept 22-24, 2025",
+        "start": "2025-09-22",
+        "end": "2025-09-24"
+      },
+      "location": "Suzhou, China",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-05-30 23:59:59",
+      "abstract_deadline": "2025-05-30 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 389,
+      "website": "https://starsem2025.github.io/",
+      "note": "Mandatory paper registration deadline on June 04, 2025. More info <a href='https://iwcs2025.github.io/call_for_papers'>here</a>."
+    },
+    {
+      "conference": "UAI",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "July 21-25, 2025",
+        "start": "2025-07-21",
+        "end": "2025-07-25"
+      },
+      "location": "Rio de Janeiro, Brazil",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2025-01-05 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.auai.org/uai2025/",
+      "note": null
+    },
+    {
+      "conference": "UncertaiNLP",
+      "full_name": null,
+      "year": 2025,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "Nov 15-18, 2025",
+        "start": "2025-11-15",
+        "end": "2025-11-18"
+      },
+      "location": "Davos, Switzerland",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2025-08-08 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://uncertainlp.github.io/#important-dates",
+      "note": null
+    },
+    {
+      "conference": "WACV",
+      "full_name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "year": 2025,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "Feb 28 – Mar 4, 2025",
+        "start": "2025-02-28",
+        "end": "2025-03-04"
+      },
+      "location": "Tucson, Arizona",
+      "subjects": [
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "ML",
+        "CV"
+      ],
+      "paper_deadline": "2024-09-09 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-7",
+      "h_index": 109,
+      "website": "https://wacv2025.thecvf.com/",
+      "note": "This is the second round of submissions. Supplementary material deadline on Sep 11, 2024. More info <a href='https://wacv2025.thecvf.com/'>here</a>."
+    },
+    {
+      "conference": "WACV",
+      "full_name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "year": 2025,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "Feb 28 – Mar 4, 2025",
+        "start": "2025-02-28",
+        "end": "2025-03-04"
+      },
+      "location": "Tucson, Arizona",
+      "subjects": [
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "ML",
+        "CV"
+      ],
+      "paper_deadline": "2024-07-14 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://wacv2025.thecvf.com/",
+      "note": null
+    },
+    {
+      "conference": "WSDM",
+      "full_name": "ACM International Conference on Web Search and Data Mining",
+      "year": 2025,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "March 10-14, 2025",
+        "start": "2025-03-10",
+        "end": "2025-03-14"
+      },
+      "location": "Hannover, Germany",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2024-08-14 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.wsdm-conference.org/2025/call-for-papers/",
+      "note": "Abstract deadline on August 7, 2024. More info <a href='https://www.wsdm-conference.org/2025/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "3DV",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "March 18-21, 2024",
+        "start": "2024-03-18",
+        "end": "2024-03-21"
+      },
+      "location": "Davos, Switzerland",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2023-08-07 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": null,
+      "website": "https://3dvconf.github.io/2024/",
+      "note": null
+    },
+    {
+      "conference": "AAAI",
+      "full_name": "AAAI Conference on Artificial Intelligence",
+      "year": 2024,
+      "publisher": "AAAI",
+      "conference_dates": {
+        "text": "February 20 - February 28, 2024",
+        "start": "2024-02-20",
+        "end": "2024-02-28"
+      },
+      "location": "Vancouver, Canada",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2023-08-15 23:59:59",
+      "abstract_deadline": "2023-08-08 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 180,
+      "website": "https://aaai.org/aaai-conference/",
+      "note": "Mandatory abstract deadline on Aug 08, 2023, and supplementary material deadline on Aug 18, 2023. More info <a href='https://aaai.org/aaai-conference/'>here</a>."
+    },
+    {
+      "conference": "AAAI 2024 Spring Symposium on Clinical Foundation Models",
+      "full_name": "AAAI 2024 Spring Symposium on Clinical Foundation Models",
+      "year": 2024,
+      "publisher": "AAAI",
+      "conference_dates": {
+        "text": "March, 25-27, 2024",
+        "start": "2024-03-25",
+        "end": "2024-03-27"
+      },
+      "location": "Stanford, USA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2024-01-26 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://clinicalfoundationmodels.github.io/",
+      "note": "More info <a href='https://clinicalfoundationmodels.github.io/'>here</a>."
+    },
+    {
+      "conference": "AAAI 2024 Spring Symposium on User-Aligned Assessment of Adaptive AI Systems",
+      "full_name": null,
+      "year": 2024,
+      "publisher": null,
+      "conference_dates": {
+        "text": "March 25-27, 2024",
+        "start": "2024-03-25",
+        "end": "2024-03-27"
+      },
+      "location": "Stanford, USA",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2023-12-22 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": -1,
+      "website": "https://aair-lab.github.io/aia2024/",
+      "note": null
+    },
+    {
+      "conference": "AAMAS",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACM / IFAAMAS",
+      "conference_dates": {
+        "text": "May 06 - May 10, 2024",
+        "start": "2024-05-06",
+        "end": "2024-05-10"
+      },
+      "location": "Auckland, New Zealand",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2023-10-09 23:59:59",
+      "abstract_deadline": "2023-10-02 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.aamas2024-conference.auckland.ac.nz/",
+      "note": "Mandatory abstract deadline on Oct 02, 2023. More info <a href='https://www.aamas2024-conference.auckland.ac.nz/calls/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "ACL",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "August 11-16, 2024",
+        "start": "2024-08-11",
+        "end": "2024-08-16"
+      },
+      "location": "Bangkok, Thailand",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2024-02-15 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 192,
+      "website": "https://2024.aclweb.org/",
+      "note": "All submissions should be done through ARR. More info <a href=\"https://www.aclweb.org/portal/sites/default/files/Submission%20Dates%20and%20Process%20for%20EACL_NAACL%20and%20ACL%202024-2.pdf\">here</a>."
+    },
+    {
+      "conference": "AIED",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "Springer / IAIED",
+      "conference_dates": {
+        "text": "July 8-12, 2024",
+        "start": "2024-07-08",
+        "end": "2024-07-12"
+      },
+      "location": "RECIFE, BRAZIL",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2024-02-05 23:59:59",
+      "abstract_deadline": "2024-01-29 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://aied2024.cesar.school/",
+      "note": "Mandatory paper registration deadline on Feb 5, 2024. More info <a href='https://iaied.org/conferences/21/'>here</a>.`"
+    },
+    {
+      "conference": "AISTATS",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "May 02-04, 2024",
+        "start": "2024-05-02",
+        "end": "2024-05-04"
+      },
+      "location": "Valencia, Spain",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2023-10-16 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 91,
+      "website": "https://www.aistats.org/aistats2024/",
+      "note": "Mandatory abstract deadline on Oct 6, 2023. More info <a href='https://aistats.org/aistats2024/dates.html'>here</a>."
+    },
+    {
+      "conference": "BMVC",
+      "full_name": "The British Machine Vision Conference",
+      "year": 2024,
+      "publisher": "BMVA",
+      "conference_dates": {
+        "text": "November 25 - November 28, 2024",
+        "start": "2024-11-25",
+        "end": "2024-11-28"
+      },
+      "location": "Glasgow, UK",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2024-05-10 23:59:59",
+      "abstract_deadline": "2024-04-26 23:59:59",
+      "timezone": "GMT",
+      "h_index": null,
+      "website": "https://bmvc2024.org/",
+      "note": "Mandatory abstract deadline on April 26, 2024"
+    },
+    {
+      "conference": "CHI",
+      "full_name": "The ACM Conference on Human Factors in Computing Systems",
+      "year": 2024,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "May 11 - May 16, 2024",
+        "start": "2024-05-11",
+        "end": "2024-05-16"
+      },
+      "location": "Honolulu, Hawaii, USA",
+      "subjects": [
+        "Human-Computer Interaction"
+      ],
+      "subject_codes": [
+        "HCI"
+      ],
+      "paper_deadline": "2023-09-14 23:59:59",
+      "abstract_deadline": "2023-09-07 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 180,
+      "website": "https://chi2024.acm.org/",
+      "note": "Mandatory abstract deadline on Sep 07, 2023, and paper deadline on Sep 14, 2023. More info <a href='https://chi2024.acm.org/'>here</a>."
+    },
+    {
+      "conference": "CIKM",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "October 21 - October 25, 2024",
+        "start": "2024-10-21",
+        "end": "2024-10-25"
+      },
+      "location": "Boise, Idaho, USA",
+      "subjects": [
+        "Data Mining",
+        "Knowledge Representation & Reasoning"
+      ],
+      "subject_codes": [
+        "DM",
+        "KR"
+      ],
+      "paper_deadline": "2024-05-20 23:59:59",
+      "abstract_deadline": "2024-05-13 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://cikm2024.org/",
+      "note": "Mandatory abstract deadline on May 13, 2024. More info <a href='https://cikm2024.org/call-for-papers/'>here</a>."
+    },
+    {
+      "conference": "COLM",
+      "full_name": "1st Conference on Language Modeling",
+      "year": 2024,
+      "publisher": "COLM",
+      "conference_dates": {
+        "text": "October 7-9, 2024",
+        "start": "2024-10-07",
+        "end": "2024-10-09"
+      },
+      "location": "Philadelphia, USA",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML"
+      ],
+      "paper_deadline": "2024-03-29 23:59:59",
+      "abstract_deadline": "2024-03-22 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://colmweb.org/",
+      "note": "Mandatory abstract deadline on March 22, 2024. More info <a href='https://colmweb.org/cfp.html'>here</a>."
+    },
+    {
+      "conference": "CVPR",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "June 17-21, 2024",
+        "start": "2024-06-17",
+        "end": "2024-06-21"
+      },
+      "location": "Seattle, Washington, USA",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2023-11-17 23:59:59",
+      "abstract_deadline": "2023-11-03 23:59:59",
+      "timezone": "America/Los_Angeles",
+      "h_index": 389,
+      "website": "https://cvpr.thecvf.com/Conferences/2024",
+      "note": "Mandatory paper registration deadline on November 03, 2023 and optional supplementary material deadline on November 26, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2024'>here</a>."
+    },
+    {
+      "conference": "EACL",
+      "full_name": "The 18th Conference of the European Chapter of the Association for Computational Linguistics",
+      "year": 2024,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "March 17-22, 2024",
+        "start": "2024-03-17",
+        "end": "2024-03-22"
+      },
+      "location": "St. Julians, Malta",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2023-10-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2024.eacl.org/",
+      "note": "Submission via ACL Rolling Review, commitment date 2023-12-20"
+    },
+    {
+      "conference": "ECCV",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "Springer",
+      "conference_dates": {
+        "text": "September 29 - October 04, 2024",
+        "start": "2024-09-29",
+        "end": "2024-10-04"
+      },
+      "location": "Milano, Italy",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2024-03-07 12:59:00",
+      "abstract_deadline": "2024-02-29 12:59:00",
+      "timezone": "UTC-8",
+      "h_index": 238,
+      "website": "https://eccv2024.ecva.net/",
+      "note": "More info <a href='https://eccv2024.ecva.net/'>here</a>."
+    },
+    {
+      "conference": "ECIR",
+      "full_name": "European Conference on Information Retrieval",
+      "year": 2024,
+      "publisher": "Springer",
+      "conference_dates": {
+        "text": "March 24-28, 2024",
+        "start": "2024-03-24",
+        "end": "2024-03-28"
+      },
+      "location": "Glasgow, Scotland",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2023-09-27 23:59:59",
+      "abstract_deadline": "2023-09-20 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 31,
+      "website": "https://www.ecir2024.org/",
+      "note": "Abstract deadline on Sep 20, 2023. More info <a href='https://www.ecir2024.org/'>here</a>."
+    },
+    {
+      "conference": "ECML PKDD",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "Springer",
+      "conference_dates": {
+        "text": "September 9-13, 2024",
+        "start": "2024-09-09",
+        "end": "2024-09-13"
+      },
+      "location": "Vilnius (Lithuania)",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2024-07-22 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 45,
+      "website": "https://2024.ecmlpkdd.org/",
+      "note": null
+    },
+    {
+      "conference": "EDM",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "IEDMS",
+      "conference_dates": {
+        "text": "July 14-17, 2024",
+        "start": "2024-07-14",
+        "end": "2024-07-17"
+      },
+      "location": "Atlanta, Geogia, USA",
+      "subjects": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Computer Vision",
+        "Education / Learning Analytics"
+      ],
+      "subject_codes": [
+        "NLP",
+        "ML",
+        "CV",
+        "EDU"
+      ],
+      "paper_deadline": "2024-02-19 23:59:59",
+      "abstract_deadline": "2024-02-9 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://educationaldatamining.org/edm2024/",
+      "note": "Mandatory paper registration deadline on Feb 13, 2025. More info <a href='https://educationaldatamining.org/edm2024/'>here</a>."
+    },
+    {
+      "conference": "EMNLP",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "November 12-16, 2024",
+        "start": "2024-11-12",
+        "end": "2024-11-16"
+      },
+      "location": "Miami, Florida, USA",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2024-06-15 23:59:00",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2024.emnlp.org/",
+      "note": "More info <a href='https://2024.emnlp.org/calls/main_conference_papers/'>here</a>."
+    },
+    {
+      "conference": "ICASSP",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "April 14-19, 2024",
+        "start": "2024-04-14",
+        "end": "2024-04-19"
+      },
+      "location": "Seoul, Korea",
+      "subjects": [
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "SP"
+      ],
+      "paper_deadline": "2023-09-06 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 123,
+      "website": "https://2024.ieeeicassp.org/",
+      "note": null
+    },
+    {
+      "conference": "ICDM",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "December 1-4, 2024",
+        "start": "2024-12-01",
+        "end": "2024-12-04"
+      },
+      "location": "Abu Dhabi, UAE",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2024-06-14 23:59:00",
+      "abstract_deadline": "2023-06-14 23:59:00",
+      "timezone": "AoE",
+      "h_index": null,
+      "website": "https://icdm2024.org/dates/",
+      "note": null
+    },
+    {
+      "conference": "ICLR",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ICLR (OpenReview)",
+      "conference_dates": {
+        "text": "May 07-11, 2024",
+        "start": "2024-05-07",
+        "end": "2024-05-11"
+      },
+      "location": "Vienna, Austria",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2023-09-28 23:59:59",
+      "abstract_deadline": "2023-09-23 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 286,
+      "website": "https://iclr.cc/Conferences/2024",
+      "note": "Mandatory abstract deadline on September 23, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>."
+    },
+    {
+      "conference": "ICML",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "July 21-27, 2024",
+        "start": "2024-07-21",
+        "end": "2024-07-27"
+      },
+      "location": "Vienna, Austria",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2024-02-01 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 254,
+      "website": "https://icml.cc/Conferences/2024",
+      "note": null
+    },
+    {
+      "conference": "ICRA",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "IEEE",
+      "conference_dates": {
+        "text": "May 13 - May 17, 2024",
+        "start": "2024-05-13",
+        "end": "2024-05-17"
+      },
+      "location": "Yokohama, Japan",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2023-09-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": 116,
+      "website": "http://2024.ieee-icra.org/",
+      "note": null
+    },
+    {
+      "conference": "IJCAI",
+      "full_name": "International Joint Conference on Artificial Intelligence",
+      "year": 2024,
+      "publisher": "IJCAI",
+      "conference_dates": {
+        "text": "August 03-09, 2024",
+        "start": "2024-08-03",
+        "end": "2024-08-09"
+      },
+      "location": "Jeju, South Korea",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2024-01-17 23:59:59",
+      "abstract_deadline": "2024-01-10 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": 133,
+      "website": "https://ijcai24.org/",
+      "note": "Mandatory abstract deadline on January 10, 2024 and optional supplementary material deadline on January 24, 2024. More info <a href='https://ijcai24.org/'>here</a>."
+    },
+    {
+      "conference": "INLG",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACL / SIGGEN",
+      "conference_dates": {
+        "text": "September 23-27, 2024",
+        "start": "2024-09-23",
+        "end": "2024-09-27"
+      },
+      "location": "Tokyo, Japan",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2024-05-31 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2024.inlgmeeting.org/",
+      "note": "17th INLG. Direct (START) submission deadline May 31, 2024; ARR commitment and demo deadline June 24, 2024 (AoE). More info <a href='https://2024.inlgmeeting.org/calls.html'>here</a>."
+    },
+    {
+      "conference": "IROS",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "IEEE / RSJ",
+      "conference_dates": {
+        "text": "October 14-18, 2024",
+        "start": "2024-10-14",
+        "end": "2024-10-18"
+      },
+      "location": "Abu Dhabi, UAE",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2024-03-01 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": 80,
+      "website": "https://iros2024-abudhabi.org/",
+      "note": null
+    },
+    {
+      "conference": "IWSDS",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "March 4-6, 2024",
+        "start": "2024-03-04",
+        "end": "2024-03-06"
+      },
+      "location": "Sapporo, Japan",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2023-11-17 23:59:59",
+      "abstract_deadline": "2023-11-10 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://sites.google.com/grp.riken.jp/iwsds2024",
+      "note": "Mandatory paper registration deadline on Nov 10, 2023. More info <a href='https://sites.google.com/view/iwsds2023/important-dates'>here</a>."
+    },
+    {
+      "conference": "InterSpeech",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ISCA",
+      "conference_dates": {
+        "text": "September 1-5, 2024",
+        "start": "2024-09-01",
+        "end": "2024-09-05"
+      },
+      "location": "Kos, Greece",
+      "subjects": [
+        "Signal Processing"
+      ],
+      "subject_codes": [
+        "SP"
+      ],
+      "paper_deadline": "2024-03-01 23:59:59",
+      "abstract_deadline": "2024-03-01 23:59:59",
+      "timezone": "UTC-0",
+      "h_index": null,
+      "website": "http://www.interspeech2024.org/",
+      "note": null
+    },
+    {
+      "conference": "KDD",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "August 25-29, 2024",
+        "start": "2024-08-25",
+        "end": "2024-08-29"
+      },
+      "location": "Barcelona, Spain",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2024-02-08 23:59:59",
+      "abstract_deadline": "2024-02-01 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://kdd2024.kdd.org/",
+      "note": null
+    },
+    {
+      "conference": "LREC-COLING",
+      "full_name": "The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation",
+      "year": 2024,
+      "publisher": "ELRA / ICCL",
+      "conference_dates": {
+        "text": "May 20 - May 25, 2024",
+        "start": "2024-05-20",
+        "end": "2024-05-25"
+      },
+      "location": "Torino, Italy",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2023-10-20 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": -1,
+      "website": "https://lrec-coling-2024.org",
+      "note": "Workshop / Tutorial proposals are also due on October 13th, more info <a href=\"https://lrec-coling-2024.lrec-conf.org/1stCfP-LRECCOLING2024.html\">here</a>."
+    },
+    {
+      "conference": "LoG",
+      "full_name": "Learning on Graphs Conference",
+      "year": 2024,
+      "publisher": "LoG (OpenReview)",
+      "conference_dates": {
+        "text": "November 26 - November 29, 2024",
+        "start": "2024-11-26",
+        "end": "2024-11-29"
+      },
+      "location": "Virtual, free to attend",
+      "subjects": [
+        "Machine Learning",
+        "Data Mining",
+        "Knowledge Representation & Reasoning"
+      ],
+      "subject_codes": [
+        "ML",
+        "DM",
+        "KR"
+      ],
+      "paper_deadline": "2024-09-11 23:59",
+      "abstract_deadline": "2024-09-04 23:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://logconference.org",
+      "note": "Abstract deadline on Sep 04, 2024. More info <a href='https://logconference.org'>here</a>."
+    },
+    {
+      "conference": "MM",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "October 28 - November 1, 2024",
+        "start": "2024-10-28",
+        "end": "2024-11-01"
+      },
+      "location": "Melbourne, Australia",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2024-04-08 23:59:59",
+      "abstract_deadline": "2024-04-12 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2024.acmmm.org/",
+      "note": "Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>."
+    },
+    {
+      "conference": "NAACL",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "June 16-21, 2024",
+        "start": "2024-06-16",
+        "end": "2024-06-21"
+      },
+      "location": "Mexico City, Mexico",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2023-12-15 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 133,
+      "website": "https://2024.naacl.org",
+      "note": "All submissions must be done through ARR. More info <a href='https://2024.naacl.org/calls/papers/'>here</a>."
+    },
+    {
+      "conference": "NeurIPS",
+      "full_name": "Conference on Neural Information Processing Systems",
+      "year": 2024,
+      "publisher": "NeurIPS Foundation",
+      "conference_dates": {
+        "text": "December 9 - December 15, 2024",
+        "start": "2024-12-09",
+        "end": "2024-12-15"
+      },
+      "location": "Vancouver, Canada",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2024-05-22 19:59:59",
+      "abstract_deadline": "2024-05-15 19:59:59",
+      "timezone": "UTC",
+      "h_index": 309,
+      "website": "https://nips.cc/Conferences/2024",
+      "note": "Mandatory abstract deadline on May 15, 2024"
+    },
+    {
+      "conference": "NeurIPS [Dataset and Benchmarks Track]",
+      "full_name": "Conference on Neural Information Processing Systems - Dataset and Benchmarks Track",
+      "year": 2024,
+      "publisher": "NeurIPS Foundation",
+      "conference_dates": {
+        "text": "December 9 - December 15, 2024",
+        "start": "2024-12-09",
+        "end": "2024-12-15"
+      },
+      "location": "Vancouver, Canada",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2024-06-05 19:59:59",
+      "abstract_deadline": "2024-05-29 19:59:59",
+      "timezone": "UTC",
+      "h_index": 309,
+      "website": "https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks",
+      "note": "Mandatory abstract deadline on May 29, 2024, and supplementary material deadline on June 12, 2024. More info <a href='https://nips.cc/Conferences/2024/CallForDatasetsBenchmarks'>here</a>."
+    },
+    {
+      "conference": "RSS",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "RSS Foundation",
+      "conference_dates": {
+        "text": "July 15-19, 2024",
+        "start": "2024-07-15",
+        "end": "2024-07-19"
+      },
+      "location": "Delft, Netherlands",
+      "subjects": [
+        "Robotics"
+      ],
+      "subject_codes": [
+        "RO"
+      ],
+      "paper_deadline": "2024-02-02 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": 61,
+      "website": "https://roboticsconference.org/2024",
+      "note": "Optional supplementary material deadline on February 08, 2024. More info <a href='https://roboticsconference.org/2024'>here</a>."
+    },
+    {
+      "conference": "SIGDIAL",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACL / ISCA",
+      "conference_dates": {
+        "text": "Sept 18-20, 2024",
+        "start": "2024-09-18",
+        "end": "2024-09-20"
+      },
+      "location": "Avignon University, France",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2024-04-24 23:59:59",
+      "abstract_deadline": "2024-04-17 23:59:59",
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://2024.sigdial.org/",
+      "note": "Mandatory paper registration deadline on May 17, 2024. More info <a href='https://2024.sigdial.org/'>here</a>."
+    },
+    {
+      "conference": "SIGGRAPH",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "July 28 - August 1, 2024",
+        "start": "2024-07-28",
+        "end": "2024-08-01"
+      },
+      "location": "Denver, USA",
+      "subjects": [
+        "Computer Graphics"
+      ],
+      "subject_codes": [
+        "CG"
+      ],
+      "paper_deadline": "2024-01-24 22:00:00",
+      "abstract_deadline": "2024-01-23 22:00:00",
+      "timezone": "GMT",
+      "h_index": null,
+      "website": "https://s2024.siggraph.org/",
+      "note": "Mandatory abstract deadline on Jan 23, 2024. More info <a href='https://s2024.siggraph.org/program/technical-papers/'>here</a>."
+    },
+    {
+      "conference": "SIGGRAPH Asia",
+      "full_name": "SIGGRAPH ASIA 2024",
+      "year": 2024,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "December, 3-6, 2024",
+        "start": null,
+        "end": null
+      },
+      "location": "Tokyo, Japan",
+      "subjects": [
+        "Computer Graphics"
+      ],
+      "subject_codes": [
+        "CG"
+      ],
+      "paper_deadline": "2024-05-19 23:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://asia.siggraph.org/2024/",
+      "note": null
+    },
+    {
+      "conference": "SIGIR",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACM",
+      "conference_dates": {
+        "text": "July 14-18, 2024",
+        "start": "2024-07-14",
+        "end": "2024-07-18"
+      },
+      "location": "Washington D.C., USA",
+      "subjects": [
+        "Data Mining"
+      ],
+      "subject_codes": [
+        "DM"
+      ],
+      "paper_deadline": "2024-01-25 23:59:00",
+      "abstract_deadline": "2024-01-18 23:59:00",
+      "timezone": "UTC-12",
+      "h_index": 66,
+      "website": "https://sigir-2024.github.io",
+      "note": "Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>."
+    },
+    {
+      "conference": "UAI",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "PMLR",
+      "conference_dates": {
+        "text": "July 15-19, 2024",
+        "start": "2024-07-15",
+        "end": "2024-07-19"
+      },
+      "location": "Barcelona, Spain",
+      "subjects": [
+        "Machine Learning"
+      ],
+      "subject_codes": [
+        "ML"
+      ],
+      "paper_deadline": "2024-02-09 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://www.auai.org/uai2024/",
+      "note": null
+    },
+    {
+      "conference": "UncertaiNLP",
+      "full_name": null,
+      "year": 2024,
+      "publisher": "ACL",
+      "conference_dates": {
+        "text": "March 22, 2024",
+        "start": "2024-03-22",
+        "end": "2024-03-24"
+      },
+      "location": "Malta",
+      "subjects": [
+        "Natural Language Processing"
+      ],
+      "subject_codes": [
+        "NLP"
+      ],
+      "paper_deadline": "2024-11-22 23:59:59",
+      "abstract_deadline": null,
+      "timezone": "UTC-12",
+      "h_index": null,
+      "website": "https://uncertainlp.github.io/#important-dates",
+      "note": null
+    },
+    {
+      "conference": "WACV",
+      "full_name": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+      "year": 2024,
+      "publisher": "IEEE / CVF",
+      "conference_dates": {
+        "text": "January 3-7, 2024",
+        "start": "2024-01-03",
+        "end": "2024-01-07"
+      },
+      "location": "Waikoloa, Hawaii, USA",
+      "subjects": [
+        "Computer Vision"
+      ],
+      "subject_codes": [
+        "CV"
+      ],
+      "paper_deadline": "2023-08-30 11:59:59",
+      "abstract_deadline": null,
+      "timezone": "America/Los_Angeles",
+      "h_index": 76,
+      "website": "https://wacv2024.thecvf.com",
+      "note": "This is the Round 2 submission. Paper Registration is on August 23rd 2023. More info <a href='https://wacv2024.thecvf.com/submissions/'>here</a>."
+    }
+  ]
+}
