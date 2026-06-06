@@ -1,0 +1,619 @@
+[
+  {
+    "id": "https://openalex.org/W4402754145",
+    "title": "Consistency and Uncertainty: Identifying Unreliable Responses From Black-Box Vision-Language Models for Selective Visual Question Answering",
+    "publication_date": "2024-06-16",
+    "abstract": "The goal of selective prediction is to allow an a model to abstain when it may not be able to deliver a reliable prediction, which is important in safety-critical contexts. Existing approaches to selective prediction typically require access to the internals of a model, require retraining a model or study only unimodal models. However, the most powerful models (e.g. GPT-4) are typically only available as black boxes with inaccessible internals, are not retrainable by end-users, and are frequently used for multimodal tasks. We study the possi-bility of selective prediction for vision-language models in a realistic, black-box setting. We propose using the principle of neighborhood consistency to identify unreliable responses from a black-box vision-language model in question answering tasks. We hypothesize that given only a visual question and model response, the consistency of the model's responses over the neighborhood of a visual question will indicate re-liability. It is impossible to directly sample neighbors in feature space in a black-box setting. Instead, we show that it is possible to use a smaller proxy model to approximately sample from the neighborhood. We find that neighborhood consistency can be used to identify model responses to vi-sual questions that are likely unreliable, even in adversarial settings or settings that are out-of-distribution to the proxy model.",
+    "source": {
+      "id": null,
+      "display_name": null
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5049277045",
+        "display_name": "Zaid Khan"
+      },
+      {
+        "author_position": "last",
+        "id": "https://openalex.org/A5005819096",
+        "display_name": "Yun Fu"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T11714",
+      "display_name": "Multimodal Machine Learning Applications",
+      "score": 1.0,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 41,
+    "referenced_works": [
+      "https://openalex.org/W1555082340",
+      "https://openalex.org/W2277195237",
+      "https://openalex.org/W2560730294",
+      "https://openalex.org/W2594633041",
+      "https://openalex.org/W2618169590",
+      "https://openalex.org/W2768282280",
+      "https://openalex.org/W2938704169",
+      "https://openalex.org/W2947312908",
+      "https://openalex.org/W2953793718",
+      "https://openalex.org/W2963238274",
+      "https://openalex.org/W2965628639",
+      "https://openalex.org/W2976816191",
+      "https://openalex.org/W2990138404",
+      "https://openalex.org/W3034854924",
+      "https://openalex.org/W3035441651",
+      "https://openalex.org/W3037355691",
+      "https://openalex.org/W3039909089",
+      "https://openalex.org/W3171312896",
+      "https://openalex.org/W3184735396",
+      "https://openalex.org/W3201957104",
+      "https://openalex.org/W4225619898",
+      "https://openalex.org/W4255556797",
+      "https://openalex.org/W4307079201",
+      "https://openalex.org/W4312536613",
+      "https://openalex.org/W4318718936",
+      "https://openalex.org/W4386066075",
+      "https://openalex.org/W6730042731",
+      "https://openalex.org/W6734194636",
+      "https://openalex.org/W6738348428",
+      "https://openalex.org/W6746052068",
+      "https://openalex.org/W6746806458",
+      "https://openalex.org/W6759230470",
+      "https://openalex.org/W6761551260",
+      "https://openalex.org/W6765277196",
+      "https://openalex.org/W6767184030",
+      "https://openalex.org/W6767312631",
+      "https://openalex.org/W6798805250",
+      "https://openalex.org/W6801617135",
+      "https://openalex.org/W6810313920",
+      "https://openalex.org/W6811013733",
+      "https://openalex.org/W6849177959"
+    ],
+    "related_works": [
+      "https://openalex.org/W2384605597",
+      "https://openalex.org/W2387743295",
+      "https://openalex.org/W2115758952",
+      "https://openalex.org/W3082787378",
+      "https://openalex.org/W2136007095",
+      "https://openalex.org/W2366230879",
+      "https://openalex.org/W3208425359",
+      "https://openalex.org/W2349927912",
+      "https://openalex.org/W3159777597",
+      "https://openalex.org/W4212839359"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4402753517",
+    "title": "CausalPC: Improving the Robustness of Point Cloud Classification by Causal Effect Identification",
+    "publication_date": "2024-06-16",
+    "abstract": "Deep neural networks have demonstrated remarkable performance in point cloud classification. However, pre-vious works show they are vulnerable to adversarial per-turbations that can manipulate their predictions. Given the distinctive modality of point clouds, various attack strategies have emerged, posing challenges for existing defenses to achieve effective generalization. In this study, we for the first time introduce causal modeling to enhance the robustness of point cloud classification models. Our insight is from the observation that adversarial examples closely re-semble benign point clouds from the human perspective. In our causal modeling, we incorporate two critical variables, the structural information, (standing for the key feature leading to the classification) and the hidden confounders, (standing for the noise interfering with the classification). The resulting overall framework CausalPC consists of three sub-modules to identify the causal effect for robust classification. The framework is model-agnostic and adaptable for integration with various point cloud classifiers. Our approach significantly improves the adversarial robustness of three mainstream point cloud classification models on two benchmark datasets. For instance, the classification accuracy for DGCNN on ModelNet40 increases from 29.2% to 72.0% with CausalPC, whereas the best-performing base-line achieves only 42.4%.",
+    "source": {
+      "id": null,
+      "display_name": null
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5071959369",
+        "display_name": "Yuanmin Huang"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5101652939",
+        "display_name": "Mi Zhang"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5014216659",
+        "display_name": "Daizong Ding"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5075978061",
+        "display_name": "Erling Jiang"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5101481139",
+        "display_name": "Zhaoxiang Wang"
+      },
+      {
+        "author_position": "last",
+        "id": "https://openalex.org/A5052437722",
+        "display_name": "Min Yang"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T11164",
+      "display_name": "Remote Sensing and LiDAR Applications",
+      "score": 0.996999979019165,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 71,
+    "referenced_works": [
+      "https://openalex.org/W1920022804",
+      "https://openalex.org/W1945616565",
+      "https://openalex.org/W2072723786",
+      "https://openalex.org/W2138524604",
+      "https://openalex.org/W2143891888",
+      "https://openalex.org/W2486285194",
+      "https://openalex.org/W2546634037",
+      "https://openalex.org/W2753845591",
+      "https://openalex.org/W2801890059",
+      "https://openalex.org/W2887500939",
+      "https://openalex.org/W2963121255",
+      "https://openalex.org/W2963662610",
+      "https://openalex.org/W2963680153",
+      "https://openalex.org/W2963857521",
+      "https://openalex.org/W2964201752",
+      "https://openalex.org/W2968296999",
+      "https://openalex.org/W2970990331",
+      "https://openalex.org/W2971089407",
+      "https://openalex.org/W2979750740",
+      "https://openalex.org/W2981979099",
+      "https://openalex.org/W2982104318",
+      "https://openalex.org/W2990258745",
+      "https://openalex.org/W2997811843",
+      "https://openalex.org/W3025561882",
+      "https://openalex.org/W3034376720",
+      "https://openalex.org/W3035394681",
+      "https://openalex.org/W3081605498",
+      "https://openalex.org/W3087636018",
+      "https://openalex.org/W3092447222",
+      "https://openalex.org/W3097024155",
+      "https://openalex.org/W3111197774",
+      "https://openalex.org/W3112740951",
+      "https://openalex.org/W3124658416",
+      "https://openalex.org/W3135588948",
+      "https://openalex.org/W3168661051",
+      "https://openalex.org/W3169043433",
+      "https://openalex.org/W3170984537",
+      "https://openalex.org/W3171353004",
+      "https://openalex.org/W3203816763",
+      "https://openalex.org/W4206550822",
+      "https://openalex.org/W4214519690",
+      "https://openalex.org/W4224871673",
+      "https://openalex.org/W4230735544",
+      "https://openalex.org/W4233267888",
+      "https://openalex.org/W4236965008",
+      "https://openalex.org/W4280587439",
+      "https://openalex.org/W4285605925",
+      "https://openalex.org/W4287122975",
+      "https://openalex.org/W4287670326",
+      "https://openalex.org/W4288359148",
+      "https://openalex.org/W4290945688",
+      "https://openalex.org/W4293846201",
+      "https://openalex.org/W4308112546",
+      "https://openalex.org/W4312962761",
+      "https://openalex.org/W4367000121",
+      "https://openalex.org/W4385245566",
+      "https://openalex.org/W4386066265",
+      "https://openalex.org/W4394671432",
+      "https://openalex.org/W6739778489",
+      "https://openalex.org/W6744110554",
+      "https://openalex.org/W6754181667",
+      "https://openalex.org/W6758684365",
+      "https://openalex.org/W6761839128",
+      "https://openalex.org/W6763422710",
+      "https://openalex.org/W6766725774",
+      "https://openalex.org/W6767439381",
+      "https://openalex.org/W6783046737",
+      "https://openalex.org/W6791693074",
+      "https://openalex.org/W6800381726",
+      "https://openalex.org/W6810658167",
+      "https://openalex.org/W6846372499"
+    ],
+    "related_works": [
+      "https://openalex.org/W4244478748",
+      "https://openalex.org/W4223488648",
+      "https://openalex.org/W2134969820",
+      "https://openalex.org/W2251605416",
+      "https://openalex.org/W2560439919",
+      "https://openalex.org/W4389340727",
+      "https://openalex.org/W3150465815",
+      "https://openalex.org/W1997222214",
+      "https://openalex.org/W2802581102",
+      "https://openalex.org/W4205786897"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4402703092",
+    "title": "PointInfinity: Resolution-Invariant Point Diffusion Models",
+    "publication_date": "2024-06-16",
+    "abstract": "We present PointInfinity, an efficient family of point cloud diffusion models. Our core idea is to use a transformer-based architecture with a fixed-size, resolution-invariant latent representation. This enables efficient training with low-resolution point clouds, while allowing high-resolution point clouds to be generated during inference. More importantly, we show that scaling the test-time resolution beyond the training resolution improves the fidelity of generated point clouds and surfaces. We analyze this phenomenon and draw a link to classifier-free guidance commonly used in diffusion models, demonstrating that both allow trading off fidelity and variability during inference. Experiments on CO3D show that PointInfinity can efficiently generate high-resolution point clouds (up to 131k points, 31× more than Point-E) with state-of-the-art quality.",
+    "source": {
+      "id": null,
+      "display_name": null
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5019098652",
+        "display_name": "Zixuan Huang"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5018298417",
+        "display_name": "Justin C. Johnson"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5006168104",
+        "display_name": "Shoubhik Debnath"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5002228469",
+        "display_name": "James M. Rehg"
+      },
+      {
+        "author_position": "last",
+        "id": "https://openalex.org/A5023917342",
+        "display_name": "Chao-Yuan Wu"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T10719",
+      "display_name": "3D Shape Modeling and Analysis",
+      "score": 0.9994000196456909,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2206",
+        "display_name": "Computational Mechanics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 76,
+    "referenced_works": [
+      "https://openalex.org/W1522301498",
+      "https://openalex.org/W2150066425",
+      "https://openalex.org/W2178629455",
+      "https://openalex.org/W2342277278",
+      "https://openalex.org/W2471962767",
+      "https://openalex.org/W2519683295",
+      "https://openalex.org/W2546066744",
+      "https://openalex.org/W2560722161",
+      "https://openalex.org/W2911758669",
+      "https://openalex.org/W2945957791",
+      "https://openalex.org/W2961222043",
+      "https://openalex.org/W2962778872",
+      "https://openalex.org/W2962988048",
+      "https://openalex.org/W2963926543",
+      "https://openalex.org/W2964137676",
+      "https://openalex.org/W2985683375",
+      "https://openalex.org/W2986615800",
+      "https://openalex.org/W3033105545",
+      "https://openalex.org/W3036167779",
+      "https://openalex.org/W3045146419",
+      "https://openalex.org/W3094502228",
+      "https://openalex.org/W3100891210",
+      "https://openalex.org/W3105863736",
+      "https://openalex.org/W3108645709",
+      "https://openalex.org/W3108944788",
+      "https://openalex.org/W3138516171",
+      "https://openalex.org/W3141954417",
+      "https://openalex.org/W3162926177",
+      "https://openalex.org/W3180196270",
+      "https://openalex.org/W3196466825",
+      "https://openalex.org/W4200015218",
+      "https://openalex.org/W4281485151",
+      "https://openalex.org/W4281969232",
+      "https://openalex.org/W4288099666",
+      "https://openalex.org/W4306310244",
+      "https://openalex.org/W4310743135",
+      "https://openalex.org/W4311034203",
+      "https://openalex.org/W4312045746",
+      "https://openalex.org/W4312122975",
+      "https://openalex.org/W4312910764",
+      "https://openalex.org/W4312933868",
+      "https://openalex.org/W4327526904",
+      "https://openalex.org/W4372272552",
+      "https://openalex.org/W4376122412",
+      "https://openalex.org/W4385245566",
+      "https://openalex.org/W4386071840",
+      "https://openalex.org/W4386076002",
+      "https://openalex.org/W4386076052",
+      "https://openalex.org/W4386076275",
+      "https://openalex.org/W4386076480",
+      "https://openalex.org/W4386076606",
+      "https://openalex.org/W4390871846",
+      "https://openalex.org/W4390874067",
+      "https://openalex.org/W6631190155",
+      "https://openalex.org/W6729001083",
+      "https://openalex.org/W6748182585",
+      "https://openalex.org/W6748208425",
+      "https://openalex.org/W6755466756",
+      "https://openalex.org/W6758371058",
+      "https://openalex.org/W6763236253",
+      "https://openalex.org/W6778990197",
+      "https://openalex.org/W6779823529",
+      "https://openalex.org/W6790830454",
+      "https://openalex.org/W6795288823",
+      "https://openalex.org/W6799838802",
+      "https://openalex.org/W6801880476",
+      "https://openalex.org/W6838452192",
+      "https://openalex.org/W6838639034",
+      "https://openalex.org/W6840815571",
+      "https://openalex.org/W6843226767",
+      "https://openalex.org/W6846015844",
+      "https://openalex.org/W6846752057",
+      "https://openalex.org/W6847386351",
+      "https://openalex.org/W6847671982",
+      "https://openalex.org/W6850963277",
+      "https://openalex.org/W6852343506"
+    ],
+    "related_works": [
+      "https://openalex.org/W4391375266",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2390279801",
+      "https://openalex.org/W2358668433",
+      "https://openalex.org/W4396701345",
+      "https://openalex.org/W2376932109",
+      "https://openalex.org/W2001405890",
+      "https://openalex.org/W4396696052",
+      "https://openalex.org/W2382290278",
+      "https://openalex.org/W4395014643"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4402778069",
+    "title": "Driving Into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving",
+    "publication_date": "2024-06-16",
+    "abstract": "In autonomous driving, predicting future events in advance and evaluating the foreseeable risks empowers autonomous vehicles to better plan their actions, enhancing safety and efficiency on the road. To this end, we propose Drive-Wm, the first driving world model compatible with existing end-to-end planning models. Through a joint spatial-temporal modeling facilitated by view factorization, our model generates high-fidelity multiview videos in driving scenes. Building on its powerful generation ability, we showcase the potential of applying the world model for safe driving planning for the first time. Particularly, our Drive-Wm enables driving into multiple futures based on distinct driving maneuvers, and determines the optimal trajectory according to the image-based rewards. Evaluation on real-world driving datasets verifies that our method could generate high-quality, consistent, and controllable multiview videos, opening up possibilities for real-world simulations and safe planning.",
+    "source": {
+      "id": null,
+      "display_name": null
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5100451684",
+        "display_name": "Yuqi Wang"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5067361308",
+        "display_name": "Jiawei He"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5064754069",
+        "display_name": "Lue Fan"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5100708466",
+        "display_name": "Hongxin Li"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5102821179",
+        "display_name": "Yuntao Chen"
+      },
+      {
+        "author_position": "last",
+        "id": "https://openalex.org/A5028016065",
+        "display_name": "Zhaoxiang Zhang"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T10799",
+      "display_name": "Data Visualization and Analytics",
+      "score": 0.8557999730110168,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2058170566",
+      "https://openalex.org/W2755342338",
+      "https://openalex.org/W2772917594",
+      "https://openalex.org/W2775347418",
+      "https://openalex.org/W2166024367",
+      "https://openalex.org/W3116076068",
+      "https://openalex.org/W2229312674",
+      "https://openalex.org/W2951359407",
+      "https://openalex.org/W2079911747",
+      "https://openalex.org/W1969923398"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4402727813",
+    "title": "Practical Measurements of Translucent Materials with Inter-Pixel Translucency Prior",
+    "publication_date": "2024-06-16",
+    "abstract": "Material appearance is a key component of photorealism, with a pronounced impact on human perception. Although there are many prior works targeting at measuring opaque materials using light-weight setups (e.g., consumer-level cameras), little attention is paid on acquiring the optical properties of translucent materials which are also quite common in nature. In this paper, we present a practical method for acquiring scattering properties of translucent materials, based solely on ordinary images captured with unknown lighting and camera parameters. The key to our method is an inter-pixel translucency prior which states that image pixels of a given homogeneous translucent material typically form curves (dubbed translucent curves) in the RGB space, of which the shapes are determined by the parameters of the material. We leverage this prior in a specially-designed convolutional neural network comprising multiple encoders, a translucency-aware feature fusion module and a cascaded decoder. We demonstrate, through both visual comparisons and quantitative evaluations, that high accuracy can be achieved on a wide range of real-world translucent materials.",
+    "source": {
+      "id": null,
+      "display_name": null
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5100422935",
+        "display_name": "Zhenyu Chen"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5042385843",
+        "display_name": "Jie Guo"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5006988937",
+        "display_name": "Shuichang Lai"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5077629033",
+        "display_name": "Ruoyu Fu"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5113395534",
+        "display_name": "Mengxun Kong"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5100340758",
+        "display_name": "Wang Chen"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5115596694",
+        "display_name": "Hongyu Sun"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5100316752",
+        "display_name": "Zhebin Zhang"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5100369871",
+        "display_name": "Chen Li"
+      },
+      {
+        "author_position": "last",
+        "id": "https://openalex.org/A5009275869",
+        "display_name": "Yanwen Guo"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T10481",
+      "display_name": "Computer Graphics and Visualization Techniques",
+      "score": 0.9955000281333923,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1704",
+        "display_name": "Computer Graphics and Computer-Aided Design"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 65,
+    "referenced_works": [
+      "https://openalex.org/W1543394532",
+      "https://openalex.org/W1575982025",
+      "https://openalex.org/W1945935723",
+      "https://openalex.org/W1968660742",
+      "https://openalex.org/W1980601110",
+      "https://openalex.org/W1992290308",
+      "https://openalex.org/W1994352258",
+      "https://openalex.org/W1995577222",
+      "https://openalex.org/W1999182952",
+      "https://openalex.org/W2000123870",
+      "https://openalex.org/W2004851664",
+      "https://openalex.org/W2008429291",
+      "https://openalex.org/W2037242534",
+      "https://openalex.org/W2045276693",
+      "https://openalex.org/W2051679640",
+      "https://openalex.org/W2059383257",
+      "https://openalex.org/W2075881548",
+      "https://openalex.org/W2087719434",
+      "https://openalex.org/W2100468662",
+      "https://openalex.org/W2110637376",
+      "https://openalex.org/W2110828609",
+      "https://openalex.org/W2112340554",
+      "https://openalex.org/W2120448006",
+      "https://openalex.org/W2123517881",
+      "https://openalex.org/W2127833308",
+      "https://openalex.org/W2134019950",
+      "https://openalex.org/W2142380402",
+      "https://openalex.org/W2151681048",
+      "https://openalex.org/W2164941260",
+      "https://openalex.org/W2248652755",
+      "https://openalex.org/W2433020148",
+      "https://openalex.org/W2736596523",
+      "https://openalex.org/W2739810716",
+      "https://openalex.org/W2777426790",
+      "https://openalex.org/W2806536237",
+      "https://openalex.org/W2811490555",
+      "https://openalex.org/W2902375431",
+      "https://openalex.org/W2958302123",
+      "https://openalex.org/W2963650738",
+      "https://openalex.org/W2964228590",
+      "https://openalex.org/W2965557046",
+      "https://openalex.org/W2986860185",
+      "https://openalex.org/W2990138404",
+      "https://openalex.org/W3015046124",
+      "https://openalex.org/W3032941892",
+      "https://openalex.org/W3035359232",
+      "https://openalex.org/W3042278945",
+      "https://openalex.org/W3090135481",
+      "https://openalex.org/W3128051178",
+      "https://openalex.org/W3138069334",
+      "https://openalex.org/W3138161122",
+      "https://openalex.org/W3183400282",
+      "https://openalex.org/W3183743915",
+      "https://openalex.org/W3184289337",
+      "https://openalex.org/W3185113610",
+      "https://openalex.org/W3191257171",
+      "https://openalex.org/W4221146591",
+      "https://openalex.org/W4231195395",
+      "https://openalex.org/W4233106016",
+      "https://openalex.org/W4253474063",
+      "https://openalex.org/W4255069537",
+      "https://openalex.org/W4311806037",
+      "https://openalex.org/W4311806038",
+      "https://openalex.org/W4367180575",
+      "https://openalex.org/W6766978945"
+    ],
+    "related_works": [
+      "https://openalex.org/W4391375266",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W4402299999",
+      "https://openalex.org/W4246450666",
+      "https://openalex.org/W4388998267",
+      "https://openalex.org/W2898370298",
+      "https://openalex.org/W2137437058",
+      "https://openalex.org/W2884249467",
+      "https://openalex.org/W4390401159",
+      "https://openalex.org/W2744391499"
+    ]
+  }
+]

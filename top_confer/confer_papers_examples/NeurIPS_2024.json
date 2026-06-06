@@ -1,0 +1,165 @@
+{
+  "conference": "NeurIPS [Dataset and Benchmarks Track]",
+  "full_name": "Conference on Neural Information Processing Systems - Dataset and Benchmarks Track",
+  "year": 2024,
+  "publisher": "NeurIPS Foundation",
+  "resolved_sources": [
+    {
+      "id": "S4306420609",
+      "display_name": "Neural Information Processing Systems",
+      "works_count": 4138,
+      "year_specific": false,
+      "relevance": 1.0
+    }
+  ],
+  "paper_count": 5,
+  "papers": [
+    {
+      "id": "https://openalex.org/W2137245235",
+      "doi": null,
+      "title": "Probabilistic Matrix Factorization",
+      "publication_year": 2007,
+      "publication_date": "2007-12-03",
+      "type": "article",
+      "language": "en",
+      "cited_by_count": 3576,
+      "venue": "Neural Information Processing Systems",
+      "venue_id": "S4306420609",
+      "is_oa": false,
+      "authors": [
+        {
+          "name": "Andriy Mnih",
+          "id": "https://openalex.org/A5079370148",
+          "institutions": [
+            "University of Toronto"
+          ]
+        },
+        {
+          "name": "Ruslan Salakhutdinov",
+          "id": "https://openalex.org/A5071983998",
+          "institutions": [
+            "University of Toronto"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2597289420",
+      "doi": null,
+      "title": "Advances in Neural Information Processing Systems 20",
+      "publication_year": 2008,
+      "publication_date": "2008-01-01",
+      "type": "article",
+      "language": "en",
+      "cited_by_count": 2600,
+      "venue": "Neural Information Processing Systems",
+      "venue_id": "S4306420609",
+      "is_oa": false,
+      "authors": [
+        {
+          "name": "Edwin V. Bonilla",
+          "id": "https://openalex.org/A5023657363",
+          "institutions": []
+        },
+        {
+          "name": "Kian Ming A. Chai",
+          "id": "https://openalex.org/A5069560003",
+          "institutions": []
+        },
+        {
+          "name": "Christopher K. I. Williams",
+          "id": "https://openalex.org/A5080713659",
+          "institutions": []
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2612972698",
+      "doi": null,
+      "title": "ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 16",
+      "publication_year": 2004,
+      "publication_date": "2004-01-01",
+      "type": "article",
+      "language": "en",
+      "cited_by_count": 2029,
+      "venue": "Neural Information Processing Systems",
+      "venue_id": "S4306420609",
+      "is_oa": false,
+      "authors": [
+        {
+          "name": "Amos Storkey",
+          "id": "https://openalex.org/A5007901825",
+          "institutions": []
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2596585349",
+      "doi": null,
+      "title": "Advances in Neural Information Processing Systems 21",
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "type": "article",
+      "language": "en",
+      "cited_by_count": 1859,
+      "venue": "Neural Information Processing Systems",
+      "venue_id": "S4306420609",
+      "is_oa": false,
+      "authors": [
+        {
+          "name": "Thomas L. Griffiths",
+          "id": "https://openalex.org/A5077079119",
+          "institutions": []
+        },
+        {
+          "name": "Christopher G. Lucas",
+          "id": "https://openalex.org/A5102903629",
+          "institutions": []
+        },
+        {
+          "name": "Joseph Jay Williams",
+          "id": "https://openalex.org/A5069476228",
+          "institutions": [
+            "University of California, Berkeley"
+          ]
+        },
+        {
+          "name": "Michael L. Kalish",
+          "id": "https://openalex.org/A5056106335",
+          "institutions": [
+            "University of Louisiana at Lafayette"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://openalex.org/W2155461593",
+      "doi": null,
+      "title": "Learning to Discover Social Circles in Ego Networks",
+      "publication_year": 2012,
+      "publication_date": "2012-12-03",
+      "type": "article",
+      "language": "en",
+      "cited_by_count": 1713,
+      "venue": "Neural Information Processing Systems",
+      "venue_id": "S4306420609",
+      "is_oa": false,
+      "authors": [
+        {
+          "name": "Jure Leskovec",
+          "id": "https://openalex.org/A5091272738",
+          "institutions": [
+            "Stanford University"
+          ]
+        },
+        {
+          "name": "Julian McAuley",
+          "id": "https://openalex.org/A5021827617",
+          "institutions": [
+            "Stanford University"
+          ]
+        }
+      ]
+    }
+  ]
+}

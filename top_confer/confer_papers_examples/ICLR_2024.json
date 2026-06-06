@@ -1,0 +1,274 @@
+[
+  {
+    "id": "https://openalex.org/W4387964172",
+    "title": "TD-MPC2: Scalable, Robust World Models for Continuous Control",
+    "publication_date": "2023-10-25",
+    "abstract": "TD-MPC is a model-based reinforcement learning (RL) algorithm that performs local trajectory optimization in the latent space of a learned implicit (decoder-free) world model. In this work, we present TD-MPC2: a series of improvements upon the TD-MPC algorithm. We demonstrate that TD-MPC2 improves significantly over baselines across 104 online RL tasks spanning 4 diverse task domains, achieving consistently strong results with a single set of hyperparameters. We further show that agent capabilities increase with model and data size, and successfully train a single 317M parameter agent to perform 80 tasks across multiple task domains, embodiments, and action spaces. We conclude with an account of lessons, opportunities, and risks associated with large TD-MPC2 agents. Explore videos, models, data, code, and more at https://tdmpc2.com",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)"
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5086722753",
+        "display_name": "Nicklas Hansen"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5004663761",
+        "display_name": "Hao Su"
+      },
+      {
+        "author_position": "last",
+        "id": "https://openalex.org/A5100424275",
+        "display_name": "Xiaolong Wang"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T10791",
+      "display_name": "Advanced Control Systems Optimization",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2207",
+        "display_name": "Control and Systems Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W4391375266",
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W2390279801",
+      "https://openalex.org/W2358668433",
+      "https://openalex.org/W2376932109",
+      "https://openalex.org/W2001405890",
+      "https://openalex.org/W2382290278",
+      "https://openalex.org/W2478288626",
+      "https://openalex.org/W4391913857",
+      "https://openalex.org/W2350741829"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4393904839",
+    "title": "Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models",
+    "publication_date": "2024-03-31",
+    "abstract": "Machine unlearning aims to remove information derived from forgotten data while preserving that of the remaining dataset in a well-trained model. With the increasing emphasis on data privacy, several approaches to machine unlearning have emerged. However, these methods typically rely on complete supervision throughout the unlearning process. Unfortunately, obtaining such supervision, whether for the forgetting or remaining data, can be impractical due to the substantial cost associated with annotating real-world datasets. This challenge prompts us to propose a supervision-free unlearning approach that operates without the need for labels during the unlearning process. Specifically, we introduce a variational approach to approximate the distribution of representations for the remaining data. Leveraging this approximation, we adapt the original model to eliminate information from the forgotten data at the representation level. To further address the issue of lacking supervision information, which hinders alignment with ground truth, we introduce a contrastive loss to facilitate the matching of representations between the remaining data and those of the original model, thus preserving predictive performance. Experimental results across various unlearning tasks demonstrate the effectiveness of our proposed method, Label-Agnostic Forgetting (LAF) without using any labels, which achieves comparable performance to state-of-the-art methods that rely on full supervision information. Furthermore, our approach excels in semi-supervised scenarios, leveraging limited supervision information to outperform fully supervised baselines. This work not only showcases the viability of supervision-free unlearning in deep models but also opens up a new possibility for future research in unlearning at the representation level.",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)"
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5013977478",
+        "display_name": "Shaofei Shen"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5100349446",
+        "display_name": "Chenhao Zhang"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5103488156",
+        "display_name": "Yawen Zhao"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5080908350",
+        "display_name": "Alina Bialkowski"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5065555672",
+        "display_name": "Weitong Chen"
+      },
+      {
+        "author_position": "last",
+        "id": "https://openalex.org/A5022353494",
+        "display_name": "Miao Xu"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T11714",
+      "display_name": "Multimodal Machine Learning Applications",
+      "score": 0.9013000130653381,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1707",
+        "display_name": "Computer Vision and Pattern Recognition"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W4289718052",
+      "https://openalex.org/W2164121020",
+      "https://openalex.org/W2145559838",
+      "https://openalex.org/W2905319430",
+      "https://openalex.org/W3116498279",
+      "https://openalex.org/W4287549553",
+      "https://openalex.org/W3183027292",
+      "https://openalex.org/W4248896073",
+      "https://openalex.org/W2974871044"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4391835887",
+    "title": "Less is More: Fewer Interpretable Region via Submodular Subset Selection",
+    "publication_date": "2024-02-14",
+    "abstract": "Image attribution algorithms aim to identify important regions that are highly relevant to model decisions. Although existing attribution solutions can effectively assign importance to target elements, they still face the following challenges: 1) existing attribution methods generate inaccurate small regions thus misleading the direction of correct attribution, and 2) the model cannot produce good attribution results for samples with wrong predictions. To address the above challenges, this paper re-models the above image attribution problem as a submodular subset selection problem, aiming to enhance model interpretability using fewer regions. To address the lack of attention to local regions, we construct a novel submodular function to discover more accurate small interpretation regions. To enhance the attribution effect for all samples, we also impose four different constraints on the selection of sub-regions, i.e., confidence, effectiveness, consistency, and collaboration scores, to assess the importance of various subsets. Moreover, our theoretical analysis substantiates that the proposed function is in fact submodular. Extensive experiments show that the proposed method outperforms SOTA methods on two face datasets (Celeb-A and VGG-Face2) and one fine-grained dataset (CUB-200-2011). For correctly predicted samples, the proposed method improves the Deletion and Insertion scores with an average of 4.9% and 2.5% gain relative to HSIC-Attribution. For incorrectly predicted samples, our method achieves gains of 81.0% and 18.4% compared to the HSIC-Attribution algorithm in the average highest confidence and Insertion score respectively. The code is released at https://github.com/RuoyuChen10/SMDL-Attribution.",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)"
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5108774684",
+        "display_name": "Ruoyu Chen"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5100408716",
+        "display_name": "Hua Zhang"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5048901827",
+        "display_name": "Siyuan Liang"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5101848270",
+        "display_name": "Jingzhi Li"
+      },
+      {
+        "author_position": "last",
+        "id": "https://openalex.org/A5068837264",
+        "display_name": "Xiaochun Cao"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T10201",
+      "display_name": "Speech Recognition and Synthesis",
+      "score": 0.9821000099182129,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W2748952813",
+      "https://openalex.org/W1595919516",
+      "https://openalex.org/W2945022594",
+      "https://openalex.org/W2966531942",
+      "https://openalex.org/W2194604332",
+      "https://openalex.org/W4379619607",
+      "https://openalex.org/W4386185001",
+      "https://openalex.org/W4236048596",
+      "https://openalex.org/W2922450688",
+      "https://openalex.org/W4313349366"
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4388481726",
+    "title": "FairSeg: A Large-Scale Medical Image Segmentation Dataset for Fairness Learning Using Segment Anything Model with Fair Error-Bound Scaling",
+    "publication_date": "2023-11-03",
+    "abstract": "Fairness in artificial intelligence models has gained significantly more attention in recent years, especially in the area of medicine, as fairness in medical models is critical to people's well-being and lives. High-quality medical fairness datasets are needed to promote fairness learning research. Existing medical fairness datasets are all for classification tasks, and no fairness datasets are available for medical segmentation, while medical segmentation is an equally important clinical task as classifications, which can provide detailed spatial information on organ abnormalities ready to be assessed by clinicians. In this paper, we propose the first fairness dataset for medical segmentation named Harvard-FairSeg with 10,000 subject samples. In addition, we propose a fair error-bound scaling approach to reweight the loss function with the upper error-bound in each identity group, using the segment anything model (SAM). We anticipate that the segmentation performance equity can be improved by explicitly tackling the hard cases with high training errors in each identity group. To facilitate fair comparisons, we utilize a novel equity-scaled segmentation performance metric to compare segmentation metrics in the context of fairness, such as the equity-scaled Dice coefficient. Through comprehensive experiments, we demonstrate that our fair error-bound scaling approach either has superior or comparable fairness performance to the state-of-the-art fairness learning models. The dataset and code are publicly accessible via https://ophai.hms.harvard.edu/datasets/harvard-fairseg10k.",
+    "source": {
+      "id": "https://openalex.org/S4306400194",
+      "display_name": "arXiv (Cornell University)"
+    },
+    "authorships": [
+      {
+        "author_position": "first",
+        "id": "https://openalex.org/A5087772443",
+        "display_name": "Yu‐Shi Tian"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5112114160",
+        "display_name": "Min Shi"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5057489503",
+        "display_name": "Yan Luo"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5093219845",
+        "display_name": "Ava Kouhana"
+      },
+      {
+        "author_position": "middle",
+        "id": "https://openalex.org/A5047341378",
+        "display_name": "Tobias Elze"
+      },
+      {
+        "author_position": "last",
+        "id": "https://openalex.org/A5100632184",
+        "display_name": "Mengyu Wang"
+      }
+    ],
+    "primary_topic": {
+      "id": "https://openalex.org/T11244",
+      "display_name": "Climate Change and Health Impacts",
+      "score": 0.9739999771118164,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2307",
+        "display_name": "Health, Toxicology and Mutagenesis"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    "referenced_works_count": 0,
+    "referenced_works": [],
+    "related_works": [
+      "https://openalex.org/W141820298",
+      "https://openalex.org/W2049584446",
+      "https://openalex.org/W2079781215",
+      "https://openalex.org/W4378770497",
+      "https://openalex.org/W4308245303",
+      "https://openalex.org/W2014033564",
+      "https://openalex.org/W2910573937",
+      "https://openalex.org/W4385571583",
+      "https://openalex.org/W4389519396",
+      "https://openalex.org/W2113438243"
+    ]
+  }
+]
